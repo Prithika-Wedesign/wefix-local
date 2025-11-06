@@ -8,4 +8,4 @@ WeFix Plus plugin adds additonal features for WeFix theme.
 = 1.0.0 =
 
     * First release!
-    * Test commit plugin.
+    * Test commit plugin first.

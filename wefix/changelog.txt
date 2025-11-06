@@ -3,7 +3,7 @@
 Version 1.0.1
 
     * Demo content added
-    * Test commit theme.
+    * Test commit theme first.
 
 Version 1.0.0
 
