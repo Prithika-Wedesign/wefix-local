@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:	WeFix Pro
- * Description: Adds advanced features for WeFix Theme pro test.
+ * Description: Adds advanced features for WeFix Theme.
  * Version: 1.0.0
  * Author: the WeDesignTech team
  * Author URI: https://wedesignthemes.com/

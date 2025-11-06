@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:	WeFix Plus
- * Description: Adds additional features for WeFix Theme plus test.
+ * Description: Adds additional features for WeFix Theme.
  * Version: 1.0.0
  * Author: the WeDesignTech team
  * Author URI: https://wedesignthemes.com/

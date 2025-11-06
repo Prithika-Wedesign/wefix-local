@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:	WeFix Shop
- * Description: Adds shop features for WeFix Theme shop test.
+ * Description: Adds shop features for WeFix Theme.
  * Version: 1.0.0
  * Author: the WeDesignTech team
  * Author URI: https://wedesignthemes.com/
