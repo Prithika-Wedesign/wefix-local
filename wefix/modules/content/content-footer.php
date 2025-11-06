@@ -1,0 +1,1 @@
+<?php echo apply_filters( 'wefix_footer_get_template_part', wefix_get_template_part( 'footer', 'templates/footer', '', array() ) ); ?>

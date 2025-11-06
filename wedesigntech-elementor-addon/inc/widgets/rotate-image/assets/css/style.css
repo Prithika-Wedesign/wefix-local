@@ -1,0 +1,8 @@
+.wdt-rotate-image-container { display: grid; text-align: center; }
+
+.wdt-rotate-image-container .wdt-rotate-image { position: relative; z-index: 1; }
+
+.wdt-rotate-image-container .wdt-rotate-image,
+.wdt-rotate-image-container .wdt-rotate-second-image { grid-area: 1/-1; align-self: center; }
+
+.wdt-rotate-image-container .wdt-rotate-image a { display: block; }

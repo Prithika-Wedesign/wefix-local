@@ -1,0 +1,115 @@
+/*--------------------------------------------------------------
+    404 Error / Not-found Page
+--------------------------------------------------------------*/
+
+	.error404, .error404 > .wrapper { width: 100%; height: 100%; }
+	.error404 > .wrapper { display: flex; padding: 0 20px;}
+
+	.center-content-wrapper {
+		width: 100%; height: 100%; display: flex; flex-direction: column; align-items: center; justify-content: center; }
+
+	.error404 h1, .error404 h2, .error404 h3, .error404 h4, .error404 h5, .error404 h6 { line-height: 1em; }
+	.error404 h2 { font-family: var(--wdtFontTypo_Alt); font-size: clamp(2.1875rem, 1.8392rem + 1.5924vw, 3.75rem); font-weight: var(--wdtFontWeight_Base); 
+		line-height: var(--wdtLineHeight_Alt); letter-spacing: 0; text-transform: capitalize; margin: 0; 
+		margin-bottom: clamp(1.25rem, 1.1107rem + 0.6369vw, 1.875rem); }
+	.error404 h3 { position: relative; display: inline-block; font-size: clamp(8.125rem, 5.3384rem + 12.7389vw, 20.625rem); font-weight: var(--wdtFontWeight_H6); 
+		line-height: 1; top: 0; margin: 0; -webkit-text-stroke-width: 1px; stroke-width: 1px; -webkit-text-stroke-color: var(--wdtAccentTxtColor);
+		stroke: var(--wdtAccentTxtColor); }
+	.error404 h4 { width: 100%; max-width: 570px; font-size: clamp(2.1875rem, 1.8392rem + 1.5924vw, 3.75rem); font-weight: var(--wdtFontWeight_Base); 
+		line-height: var(--wdtLineHeight_Alt); text-transform: capitalize; color: var(--wdtAccentTxtColor); margin-top: 0; 
+		margin-bottom: clamp(1.25rem, 1.1107rem + 0.6369vw, 1.875rem); margin-left: auto; margin-right: auto; }
+	.error404 .wdt-button, .error404 .wdt-button.type1 { 
+		display: inline-block; font-size: var(--wdtFontSize_Ext); font-weight: var(--wdtFontWeight_H6); 
+		letter-spacing: 0; text-transform: capitalize; padding: var(--wdtPadding_Btn); color: var(--wdtAccentTxtColor); 
+		margin-top: clamp(1.875rem, 1.7357rem + 0.6369vw, 2.5rem); border: 1px solid var(--wdtAccentTxtColor); position: relative; padding-right: 5em; padding-left: 1.8em;
+		background-image: linear-gradient(0deg, var(--wdtAccentTxtColor), var(--wdtAccentTxtColor)); background-repeat: no-repeat; background-position: 100% 0;
+		background-size: 5% 100%;
+	}
+	.error404 .wdt-button::before,
+	.error404 .wdt-button.type1::before { content: ""; position: absolute; right: 0; background: var(--wdtAccentTxtColor); border-radius: inherit; width: 50px; 
+		height: 100%; display: flex; align-items: center; justify-content: center; top: 0; }
+	.error404 .wdt-button::after,
+	.error404 .wdt-button.type1::after { content: '\e804'; font-family: "wefix-font"; font-size: var(--wdtFontSize_Ext); color: var(--wdtLinkColor); 
+		font-weight: var(--wdtFontWeight_Alt); width: 50px; height: 100%; display: flex; align-items: center; justify-content: center; position: absolute; top: 0; bottom: 0; 
+		right: 0; }
+	
+	.error404 .wdt-button:hover::after,
+	.error404 .wdt-button.type1:hover::after { animation: wdt-btn-icon 0.3s ease; -webkit-animation: wdt-btn-icon 0.3s ease; }
+
+	@keyframes wdt-btn-icon {
+    0% { transform: translate(0px,0px); -webkit-transform: translate(0px,0px); opacity: 1; }
+    49% { transform: translate(10px,-10px) scale(0.5); -webkit-transform: translate(10px,-10px) scale(0.5); opacity: 0; }
+    50% { transform: translate(-10px,10px) scale(0.5); -webkit-transform: translate(-10px,10px) scale(0.5); opacity: 0; }
+    100% { transform: translate(0px,0px); -webkit-transform: translate(0px,0px); opacity: 1; }
+    }
+
+    @-webkit-keyframes wdt-btn-icon {
+    0% { transform: translate(0px,0px); -webkit-transform: translate(0px,0px); opacity: 1; }
+    49% { transform: translate(10px,-10px) scale(0.5); -webkit-transform: translate(10px,-10px) scale(0.5); opacity: 0; }
+    50% { transform: translate(-10px,10px) scale(0.5); -webkit-transform: translate(-10px,10px) scale(0.5); opacity: 0; }
+    100% { transform: translate(0px,0px); -webkit-transform: translate(0px,0px); opacity: 1; }
+    }
+
+	.error404 .type1 #wdt-style-picker ul li::before, .error404 #wdt-style-picker ul li:before { content: none; }
+	.error404 .type1 #wdt-style-picker h3, .error404 #wdt-style-picker h3 { letter-spacing: 0; text-transform: capitalize; }
+	.error404 #wdt-style-picker h2 { top: 0; }
+	.error404 .type1 p { font-size: var(--wdtFontSize_Base); font-weight: var(--wdtFontWeight_Base); color: var(--wdtAccentTxtColor); max-width: 550px; margin: 0; }
+
+	.error-box-inner * { text-align: center; }
+
+	.error404 .menu-links { margin: 40px 0; }
+	.error404 .menu-links li { 
+		display: inline-block; text-transform: uppercase; font-size: 16px; padding: 0; margin: 0 2px 5px; }
+	.error404 .menu-links li a { padding: 7px 20px; display: inline-block; }
+
+	.error404 #searchform .wdt-search-icon { display: none; }
+	.error404 #searchform { display: inline-block; margin: 0 auto; position: relative; width: 60%; }
+	.error404 #searchform input[type="text"], .error404 #searchform input[type="submit"] { height: 52px; }
+    .error404 #searchform input[type="submit"] { 
+		border-radius: var(--wdtRadius_Zero); padding: 13px 20px 13px; position: absolute; right: 0; top: 0; margin-top: 0; }
+
+    .error404 .container { height: 100%; text-align: center; max-width: 100%; padding: 0; }
+	.error404 .type1 .center-content { max-width: 100%; width: 100%; }
+
+	.error404 div.wrapper.type1 { 
+		background-color: var(--wdtPrimaryColor);
+	}
+
+
+
+/*--------------------------------------------------------------
+    Default Colors
+--------------------------------------------------------------*/
+
+	/* .error404 .wdt-dark-bg, .error404 .menu-links li:hover a { background: var(--wdtHeadAltColor); }
+	.error404 .menu-links li a { background:rgba(var(--wdtHeadAltColorRgb),0.05); } */
+
+	.error404 .wdt-button, .error404 .wdt-button.type1, .error404 .menu-links li:hover a { color: var(--wdtAccentTxtColor); }
+
+	.error404 .wdt-button { background-color: transparent; }
+	.error404 .wdt-button:hover { padding-left: 2.4em; padding-right: 4.4em; background-size: 100% 100%; color: var(--wdtLinkColor); }
+
+	.error404 .menu-links li a { color: var(--wdtHeadAltColor); }
+
+
+
+/*--------------------------------------------------------------
+    Accents
+--------------------------------------------------------------*/
+
+	.error404 h3 { color: transparent; }
+
+
+
+/*--------------------------------------------------------------
+ Responsive
+--------------------------------------------------------------*/
+
+/* Common Styles for the devices below 479px width */
+/* @media only screen and (max-width: 479px) {
+
+	.error404 h2 { font-size: var(--wdtFontSize_H1); }
+	.error404 h3 { font-size: var(--wdtFontSize_H2); }
+	.error404 h4 { font-size: var(--wdtFontSize_H3); }
+
+} */

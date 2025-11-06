@@ -1,0 +1,28 @@
+
+/**
+    Advanced Toggle Switcher
+*/
+
+.wdt-advanced-toggle-switcher-container { display: flex; align-items: center; justify-content: center; margin: 0 0 30px; }
+
+.wdt-advanced-toggle-switcher-container .wdt-advanced-checkbox-toggle { margin: 0 26px; -webkit-appearance: none; appearance: none; 
+    background-color: var(--wdtTertiaryColor); cursor: pointer; width: 80px; height: 40px; display: block; 
+    border-radius: 100px; position: relative; }
+
+.wdt-advanced-toggle-switcher-container .wdt-advanced-checkbox-toggle:after { content: ''; position: absolute; pointer-events: none;
+    top: 5px; left: 5px; width: 30px; height: 30px; color: var(--wdtPrimaryColor); border-radius: 90px; 
+    transition: .3s; background-color: currentColor; }
+
+.wdt-advanced-toggle-switcher-container .wdt-advanced-checkbox-toggle:checked:after { left: calc(100% - 5px); transform: translateX(-100%); }
+.wdt-advanced-toggle-switcher-container .wdt-advanced-checkbox-toggle:active:after { width: 60%; }
+
+
+.wdt-advanced-toggle-container .wdt-advanced-toggle-switcher-container .wdt-advanced-toggle-title { 
+    font-size: 18px; color: var(--wdtHeadAltColor); margin: 0px; }
+
+/** 
+    RTL Support
+*/
+
+body.rtl .wdt-advanced-toggle-switcher-container .wdt-advanced-checkbox-toggle:after { left: calc(100% - 5px); transform: translateX(-100%); }
+body.rtl .wdt-advanced-toggle-switcher-container .wdt-advanced-checkbox-toggle:checked:after { left: 5px; transform: translateX(0); }

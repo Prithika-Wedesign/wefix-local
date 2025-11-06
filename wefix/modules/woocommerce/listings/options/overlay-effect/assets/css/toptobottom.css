@@ -1,0 +1,19 @@
+/*--------------------------------------------------------------*/
+    /* #region - Product Thumb Overlay Effects */
+/*--------------------------------------------------------------*/
+
+    .woocommerce ul.products li.product .product-thumb .image .product-thumb-overlay { 
+        height: 100%; position: relative; z-index: 1; }
+
+    .woocommerce ul.products li.product .product-thumb .image .product-thumb-overlay { opacity: 0; }
+
+    .woocommerce ul.products li.product:hover .product-thumb .image .product-thumb-overlay { opacity: 1; }
+
+    .woocommerce ul.products.product-overlay-toptobottom li.product .product-thumb .image .product-thumb-overlay { 
+        display: block; width: 100%; height: 0; position: absolute; left: 0; right: 0; top: 0; opacity: 0; 
+        background-color: rgba(var(--wdtHeadAltColorRgb), 0.3); margin: 0 auto; }
+        
+    .woocommerce ul.products.product-overlay-toptobottom li.product:hover .product-thumb .image .product-thumb-overlay { 
+        height: 100%; opacity: 1; }
+
+/* #endregion - Product Thumb Overlay Effects */        

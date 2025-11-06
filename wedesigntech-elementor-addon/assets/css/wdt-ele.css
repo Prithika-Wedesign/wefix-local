@@ -1,0 +1,12 @@
+
+
+/* Elementor Panel icon */
+
+.elementor-element:hover .icon:has( > .wdt-widget-icon) + .title-wrapper .title { color: #16a9a6; }
+
+.elementor-element .icon > .wdt-widget-icon { width: 34px; height: 24px;
+    background-image: url(../images/wdt_logo.png);
+    background-size: contain;
+    display: inline-block;
+    background-position: center center;
+    background-repeat: no-repeat; }

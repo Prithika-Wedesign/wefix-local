@@ -1,0 +1,27 @@
+/*--------------------------------------------------------------*/
+    /* #region - Thumb IconsGroup Style */
+/*--------------------------------------------------------------*/
+
+    .woocommerce ul.products.product-thumb-iconsgroup-style-simple li.product .product-thumb .product-buttons-wrapper.product-icons a,
+    .woocommerce ul.products.product-thumb-iconsgroup-style-simple li.product .product-thumb .product-buttons-wrapper.product-icons a.button,
+    .woocommerce ul.products.product-thumb-iconsgroup-style-simple li.product .product-thumb .product-buttons-wrapper.product-icons button,
+    .woocommerce ul.products.product-thumb-iconsgroup-style-simple li.product .product-thumb .product-buttons-wrapper.product-icons button.button,
+    .woocommerce ul.products.product-thumb-iconsgroup-style-simple li.product .product-thumb .product-buttons-wrapper.product-icons .button { -webkit-border-radius: 50%; border-radius: 50%; }
+
+    .woocommerce ul.products.product-thumb-iconsgroup-style-simple li.product .product-thumb .product-buttons-wrapper.product-icons .wc_inline_buttons .wc_btn_inline { margin: 4px; }
+
+/* #endregion - Thumb IconsGroup Style */
+
+
+/*--------------------------------------------------------------*/
+    /* #region - Accents */
+/*--------------------------------------------------------------*/
+
+	/* Primary */
+    .woocommerce ul.products.product-thumb-iconsgroup-style-simple li.product .product-thumb .product-buttons-wrapper.product-icons a:hover,
+    .woocommerce ul.products.product-thumb-iconsgroup-style-simple li.product .product-thumb .product-buttons-wrapper.product-icons a.button:hover,
+    .woocommerce ul.products.product-thumb-iconsgroup-style-simple li.product .product-thumb .product-buttons-wrapper.product-icons button:hover,
+    .woocommerce ul.products.product-thumb-iconsgroup-style-simple li.product .product-thumb .product-buttons-wrapper.product-icons button.button:hover,
+    .woocommerce ul.products.product-thumb-iconsgroup-style-simple li.product .product-thumb .product-buttons-wrapper.product-icons .button:hover { background-color: var(--wdtSecondaryColor); color: var(--wdtAccentTxtColor); }
+
+/* #endregion - Accents */

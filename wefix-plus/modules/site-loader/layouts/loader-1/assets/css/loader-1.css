@@ -1,0 +1,60 @@
+/*--------------------------------------------------------------
+    Loader
+--------------------------------------------------------------*/
+
+    .pre-loader { height: 100%; left: 0; position: fixed; top: 0; width: 100%; z-index: 10000; background-color: var(--wdtBodyBGColor); }
+
+    .loader-inner { padding: 25px; position: absolute; left: 50%; top: 50%; text-align: center; width: 100%; 
+        -webkit-transform: translate(-50%, -50%); transform: translate(-50%, -50%); }
+
+    /* SVG Style */
+
+    .pre-loader.loader1 { transition: var(--wdt-Ad-Transition); transition-duration: 1200ms;
+        clip-path: circle(150% at 50% 50%); -webkit-clip-path: circle(150% at 50% 50%); }
+
+    .circle_stroke { fill: none; stroke: currentColor; stroke-width: 40; stroke-linecap: round; stroke-linejoin: round; stroke-dasharray: 1, 500; }
+
+    .pre-loader.loader1 .loader-inner .circle_svg { font-size: clamp(9.375rem, 7.9817rem + 6.3694vw, 15.625rem); 
+        color: var(--wdtPrimaryColor); padding: 10px; animation: rotate 2s linear infinite; transform-origin: 50% 50%; }
+
+    .pre-loader.loader1 .loader-inner svg .circle_stroke { stroke-dasharray: 1 500; animation: dash 2s linear infinite; }
+
+    @keyframes rotate {
+        0% { transform: rotate(0deg); }
+        25% { transform: rotate(180deg); }
+        50% { transform: rotate(180deg); }
+        75% { transform: rotate(360deg); }
+        100% { transform: rotate(360deg); }
+    }
+
+    @keyframes dash {
+        0% { stroke-dasharray: 1 500; }
+        25% { stroke-dasharray: 400 80; }
+        50% { stroke-dasharray: 400 80; }
+        75% { stroke-dasharray: 1 500; }
+        100% { stroke-dasharray: 1 500; }
+    }
+
+
+/*--------------------------------------------------------------
+    Accents
+--------------------------------------------------------------*/
+
+    .pre-loader { background-color: var(--wdtBodyBGColor); }
+    .loader-text { background-image: linear-gradient(to right, var(--wdtPrimaryColor) 10%, var(--wdtHeadAltColor) 50%, var(--wdtPrimaryColor) 60%); }
+
+
+/*--------------------------------------------------------------
+    Responsive
+--------------------------------------------------------------*/
+
+    /*----*****---- << Mobile (Landscape) >> ----*****----*/
+
+    /* Note: Design for a width of 480px */
+
+    @media only screen and (min-width: 480px) and (max-width: 767px) { }
+
+
+    /* Common Styles for the devices below 479px width */
+
+    @media only screen and (max-width: 479px) { }

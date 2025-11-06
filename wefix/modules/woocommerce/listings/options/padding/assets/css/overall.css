@@ -1,0 +1,9 @@
+/*--------------------------------------------------------------*/
+    /* #region - Product Listing - Padding Options */
+/*--------------------------------------------------------------*/
+
+    .woocommerce ul.products.product-padding-overall li.product .product-wrapper { padding: 20px; }
+    
+    .woocommerce ul.products.product-padding-overall li.product .product-details { padding: 20px 10px 10px; }
+
+/* #endregion - Product Listing - Padding Options */

@@ -1,0 +1,204 @@
+/*==== Registration Common ====*/
+
+.wdt-custom-auth-form #main { margin-bottom: 130px; }
+.mu_register h2 { font-size: clamp(1.375rem, 1.3462rem + 0.1282vw, 1.5rem); /* Min-22 & Max-24 */  }
+.wefix-pro-title.wefix-pro-login-title h2,
+.wdt-registration-form .wefix-custom-auth-sc-border-title h2 { 
+    font-size: clamp(1.875rem, 1.7638rem + 0.6135vw, 2.5rem); /* 40px to 30px */ 
+    font-weight: var(--wdtFontWeight_Alt); text-transform: capitalize; }
+.wefix-pro-title.wefix-pro-login-title h2 .wefix-pro-login-title strong { font-weight: var(--wdtFontWeight_Alt); }
+.wdt-registration-form .wefix-custom-auth-register-alert { margin: 15px 0; text-align: center; }
+#signup-content .mu_register > h2:first-child { margin-top: 0; }
+#signup-content .mu_register > p:last-child { margin-bottom: 0; }
+
+/* Registration Form */
+
+.wdt-registration-form {     
+    padding: clamp(1.875rem, 1.319rem + 3.0675vw, 5rem); /* 80px to 30px */ background-color: transparent; 
+    width: 100%; max-width: 650px; border: 1px solid var(--wdtBorderColor); -webkit-border-radius: var(--wdtRadius_Zero); border-radius: var(--wdtRadius_Zero); margin: 0 auto; margin-bottom: 120px; }
+.wdt-registration-form input[type="text"], 
+.wdt-registration-form input[type="email"], 
+.wdt-registration-form input[type="url"], 
+.wdt-registration-form input[type="password"], 
+.wdt-registration-form input[type="search"], 
+.wdt-registration-form input[type="number"], 
+.wdt-registration-form input[type="tel"], 
+.wdt-registration-form input[type="date"], 
+.wdt-registration-form input[type="month"], 
+.wdt-registration-form input[type="week"], 
+.wdt-registration-form input[type="time"], 
+.wdt-registration-form input[type="datetime"], 
+.wdt-registration-form input[type="datetime-local"], 
+.wdt-registration-form input[type="color"], 
+.wdt-registration-form textarea { 
+    background-image: linear-gradient(45deg, rgba(var(--wdtAccentTxtColorRgb), 1), rgba(var(--wdtAccentTxtColorRgb), 1)); }
+.wdt-registration-form form { margin-top: clamp(1.25rem, 1.0832rem + 0.9202vw, 2.1875rem); /* 20px to 35px */ }
+.wdt-registration-form .wefix-custom-auth-sc-border-title h2 { text-align: center; margin: 0 0 12px; }
+.wdt-registration-form p { text-align: center; font-weight: var(--wdtFontWeight_Base); margin: 0; }
+.wdt-registration-form p strong { font-weight: var(--wdtFontWeight_Base); }
+.wdt-registration-form form p { text-align: left; color: var(--wdtBodyTxtColor); }
+.wdt-registration-form form p:last-child { text-align: center; }
+.wdt-registration-form form p a.wefix-pro-login-link { 
+    font-weight: var(--wdtFontWeight_Ext); color: var(--wdtLinkColor); text-decoration: underline; 
+    text-decoration-color: transparent; }
+.wdt-registration-form form p a.wefix-pro-login-link:hover { text-decoration-color: currentColor; }
+.wdt-registration-form form#loginform { display: block; }
+.wefix-pro-login-description { text-align: center; }
+.wdt-registration-form input[type="submit"] { width: 100%; }
+.wefix-pro-login-form-holder #loginform { 
+    display: grid; grid-template-columns: repeat(1, 1fr); justify-content: space-between; grid-gap: 10px; margin-top: -15px; }
+.wefix-pro-login-form-holder #loginform p { display: block; width: 100%; max-width: 100%; margin: 0; }
+.wefix-pro-login-form-holder #loginform p input[type="submit"] { display: block; width: 100%; max-width: 100%; margin: 10px 0; }
+.wefix-pro-login-form-holder #loginform label { margin-bottom: 6px; }
+.wefix-pro-login-form-holder #loginform label #rememberme { margin-top: -4px; margin-right: 8px; }
+
+/* Login form */
+html:has(> body > .wefix-pro-login-form-container:not([style="display: none;"])) { overflow: hidden; }
+.wefix-pro-login-form-container { display: block; height: 100% !important; margin: 0; padding: 0; 
+    pointer-events: none; width: 100%; z-index: 10000; position: fixed; bottom: 0; left: 0; right: 0; top: 0; }
+.wefix-pro-login-form-overlay { position: fixed; bottom: 0; left: 0; 
+    right: 0; top: 0; z-index: 9999; background: rgba(0,0,0,0.8); cursor: url(../images/pop-close.png) 25 25, auto; }
+.wefix-pro-login-form-container .wefix-pro-login-form .wefix-pro-login-form-wrapper { 
+    padding: clamp(1.875rem, 1.5414rem + 1.8405vw, 3.75rem); /*60px - 30px*/ border-radius: var(--wdtRadius_Zero); 
+    max-width: 650px; gap: 15px; background-color: rgba(var(--wdtBodyBGColorRgb), 1); height: fit-content; overflow-y: auto; max-height: calc(100vh - 2* 1.5em); display: grid; grid-template-columns: repeat(2, 1fr); pointer-events: all; }
+.wefix-pro-login-form-container .wefix-pro-login-form .wefix-pro-login-form-wrapper > div:not([class*="wefix-pro-social"]),
+.wefix-pro-login-form-container .wefix-pro-login-form .wefix-pro-login-form-wrapper > div.wefix-pro-social-logins-divider  { 
+    order: -1; grid-column: 1/3; }
+.wefix-pro-login-form-container .wefix-pro-login-form .wefix-pro-login-form-wrapper > div[class*="wefix-pro-social"] > div[class$="-divider"] { display: none; }
+.login-form-custom-logo { 
+    text-align: center; margin: 10px 0; margin-bottom: clamp(1.25rem, 1rem + 1.25vw, 2.5rem); /*min-20px - max-40px*/ }
+.login-form-custom-logo img { max-width: 170px; }
+.wefix-pro-login-form-holder > *:not(:last-child),
+.wefix-pro-login-form-container .wefix-pro-login-form > *:not(:last-child) { 
+    margin-bottom: clamp(0.625rem, 0.5694rem + 0.3067vw, 0.9375rem); }
+.wefix-pro-login-form-container .wefix-pro-login-form { 
+    display: grid; padding: 0; pointer-events: none; position: absolute; left: 0; right: 0;
+    background-color: transparent; width: 100%; margin: auto; height: 100%; place-content: center; }
+.wefix-pro-login-form-container .wefix-pro-login-form .wefix-pro-login-form-wrapper .wefix-pro-login-form-holder #login-message { 
+    text-align: center; margin-bottom: 16px; }
+.wefix-pro-login-form-container .wefix-pro-login-form .wefix-pro-title.wefix-pro-login-title {
+    display: flex; flex-direction: column; align-items: center; 
+    margin-bottom: clamp(0.3125rem, 0.1457rem + 0.9202vw, 1.25rem); /*min-5px - max-20px*/ }
+#loginform .login-username, #loginform .login-password { width: 100%; }
+#loginform .login-remember { text-align: left; }
+#loginform p.login-remember input[type="checkbox"] {
+    opacity: 1; -webkit-appearance: none; appearance: none; width: 1em; height: 1em; 
+    border: 1px solid var(--wdtBorderColor); transform: translateY(-0.075em); display: inline-grid; 
+    place-content: center; background: rgba(var(--wdtTertiaryColorRgb), .0); border-radius: 2px; 
+    padding: 0 0; margin-right: 5px; }
+#loginform p.login-remember input[type="checkbox"]:after {
+    content: ""; width: 0.65em; height: 0.65em; clip-path: polygon(14% 44%, 0 65%, 50% 100%, 100% 16%, 80% 0%, 43% 62%); 
+    transform: scale(0); transform-origin: bottom left; transition: 120ms transform ease-in-out; 
+    box-shadow: inset 1em 1em var(--wdtPrimaryColor); }
+#loginform p.login-remember input[type="checkbox"]:checked:after { transform: scale(1); }
+.wefix-pro-social-logins-divider { 
+    display: none; text-align: center; position: relative; 
+    margin: clamp(0.3125rem, 0.2347rem + 0.4294vw, 0.75rem) 0; /*12px - 5px*/ }
+.wefix-pro-title.wefix-pro-login-title h2 { text-align: center; margin-top: 0; }
+.wefix-pro-login-form-container .wefix-pro-login-form .wefix-pro-login-form-holder p.tpl-forget-pwd { margin-bottom: 0px; }
+.wefix-pro-login-form-container .wefix-pro-login-form .wefix-pro-login-form-holder p.tpl-forget-pwd a {
+    color: var(--wdtHeadAltColor); text-decoration: underline; text-decoration-color: transparent; 
+    -webkit-transition: all 0.3s linear; transition: all 0.3s linear; }
+.wefix-pro-login-form-container .wefix-pro-login-form .wefix-pro-login-form-holder p.tpl-forget-pwd a:hover { 
+    text-decoration-color: var(--wdtSecondaryColor); }
+a.wefix-pro-social-facebook-connect, a.wefix-pro-social-google-connect {
+    width: 100%; padding: var(--wdtInputPadding); display: inline-block; text-align: center; 
+    background: var(--wdtAccentTxtColor); color: var(--wdtHeadAltColor); border-radius: var(--wdtRadius_Part); 
+    box-shadow: rgba(var(--wdtLinkHoverColorRgb), 1) 0 0 0px; border: 1px solid var(--wdtBorderColor); margin: 0; 
+    font-size: clamp(0.875rem, 0.8173rem + 0.2564vw, 1.125rem); font-weight: var(--wdtFontWeight_Ext); display: inline-flex; 
+    justify-content: center; align-items: center; backface-visibility: hidden; will-change: transform; isolation: isolate; 
+    -webkit-transition: all 0.3s ease-out; transition: all 0.3s ease-out; }
+a.wefix-pro-social-facebook-connect:hover, a.wefix-pro-social-google-connect:hover {
+    background-color: var(--wdtPrimaryColor); color: var(--wdtAccentTxtColor); border-color: var(--wdtPrimaryColor); 
+    backface-visibility: hidden; will-change: transform; isolation: isolate; }
+a.wefix-pro-social-facebook-connect i,
+a.wefix-pro-social-google-connect i { margin-right: 10px; }
+.wefix-pro-login-form-container {  margin: auto; max-height: calc(100vh - 2*1.5em); pointer-events: none; }
+
+/* Login and Registor Form Style */
+.wdt-registration-form form p:not(:last-child) { margin-bottom: 15px; }
+a.wefix-pro-social-google-connect > svg { margin-right: 10px; }
+.wefix-pro-social-logins-divider { display: inline-flex; align-items: center; width: 100%; }
+.wefix-pro-social-logins-divider:before,
+.wefix-pro-social-logins-divider:after { content: ""; position: relative; display: inline-block;
+    width: 100%; height: 1px; background-color: var(--wdtBorderColor); }
+.wefix-pro-social-logins-divider:before { margin-right: 16px; }
+.wefix-pro-social-logins-divider:after { margin-left: 16px; }
+
+
+/*--------------------------------------------------------------
+	Responsive
+--------------------------------------------------------------*/
+
+@media only screen and (max-width:1540px) {
+    .wefix-pro-login-form #loginform { margin-top: 0; }
+    .wefix-pro-login-form-container .wefix-pro-login-form .wefix-pro-login-form-wrapper .wefix-pro-login-form-holder #login-message { 
+        margin-bottom: 0; }
+}
+
+@media screen and (max-width: 767px) {
+    #loginform .login-username, #loginform .login-password { margin-bottom: 20px; }
+    .wefix-pro-login-form-container { overflow: scroll; }
+}
+
+@media screen and (min-width:480px) and (max-width: 767px) {
+    .wefix-pro-login-form-container { margin: auto; }
+}
+
+@media screen and (max-width: 479px) {
+    a.wefix-pro-social-facebook-connect,
+    a.wefix-pro-social-google-connect { padding: 10px; }
+}
+
+
+/*==== Registration Step-II */
+
+.mu_register { width: 100%; margin: 0 auto; max-width: 600px; padding: 50px; background: transparent; box-shadow: none; 
+    border-radius: var(--wdtRadius_Zero); border: 1px solid var(--wdtBorderColor); }
+#signup-content .mu_register input[type="submit"] { margin: 0; }
+#signup-content .mu_register #blog_title, #signup-content .mu_register #user_email,
+#signup-content .mu_register #blogname, #signup-content .mu_register #user_name { 
+    width: 100%; font-size: initial; margin: 0 0 18px; box-sizing: border-box; }
+.mu_register form .wp-signup-username-description, .mu_register form .wp-signup-email-description { margin-bottom: 15px; }
+.mu_register p.submit { margin-top: 20px; }
+.mu_register form p.submit input[type="submit"] { font-size: var(--wdtFontSize_Base); }
+
+@media screen and (max-width: 479px) {
+    .wefix-pro-login-form-container .wefix-pro-login-form .wefix-pro-login-form-wrapper { 
+        margin: 0 15px; width: calc(100% - 30px); }
+    .mu_register { padding: 30px; }
+}
+
+/* Registration Form Response Style */
+
+.wefix-custom-auth-register-alert {
+    display: none; padding: 10px; margin-bottom: 20px; border-radius: var(--wdtRadius_Zero); 
+    border: 1px solid transparent; background-color: var(--wdtTertiaryColor); }
+
+.wefix-custom-auth-register-alert-error {
+    background-color: #ffebee; /* Light red background */
+    color: #c62828; /* Dark red text */
+    border-color: #c62828; /* Dark red border */ }
+
+.wefix-custom-auth-register-alert-success {
+    background-color: #e8f5e9; /* Light green background */
+    color: #2e7d32; /* Dark green text */
+    border-color: #2e7d32; /* Dark green border */ }
+
+
+/* Registration Form Response Spinner */
+
+.wefix-custom-auth-spinner {
+    position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 1000; }
+.spinner {
+    border: 4px solid #f3f3f3; /* Light grey */ border-top: 4px solid #3498db; /* Blue */ 
+    border-radius: 50%; width: 40px; height: 40px; animation: spin 1s linear infinite; }
+@-webkit-keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+@keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+
+
+@media only screen and (min-width:1281px) and (max-width:1540px) { .wdt-registration-form { margin-bottom: 100px; } }
+@media only screen and (min-width:1025px) and (max-width:1280px) { .wdt-registration-form { margin-bottom: 80px; } }
+@media only screen and (min-width:768px) and (max-width:1024px) { .wdt-registration-form { margin-bottom: 70px; } }
+@media only screen and (min-width:480px) and (max-width:767px) { .wdt-registration-form { margin-bottom: 60px; } }
+@media only screen and (max-width: 479px) { .wdt-registration-form { margin-bottom: 60px; } }

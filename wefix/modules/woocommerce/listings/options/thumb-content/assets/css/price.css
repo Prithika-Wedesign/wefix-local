@@ -1,0 +1,24 @@
+/*--------------------------------------------------------------*/
+    /* #region - Product Listing - Thumb Price */
+/*--------------------------------------------------------------*/
+
+    .woocommerce ul.products li.product .product-thumb .price { letter-spacing: 0; }
+
+    .woocommerce ul.products li.product .product-thumb .price ins { font-weight: var(--wdtFontWeight_Base); }
+
+    .woocommerce ul.products li.product .product-thumb .price del { opacity: 0.85; }
+
+    .woocommerce ul.products li.product .product-thumb .price { letter-spacing: 0.4px; margin: -1px 0 0; padding: 0; width: 100%; }
+
+    .woocommerce ul.products li.product .product-thumb .price, .woocommerce ul.products li.product .product-thumb .price ins, .woocommerce ul.products li.product .product-thumb .price del { font-size: var(--wdtFontSize_Ext); }
+
+    .woocommerce ul.products li.product .product-thumb .price ins { font-weight: var(--wdtFontWeight_Alt); }
+
+    .woocommerce ul.products li.product .product-thumb .product-price { width: 100%; }
+
+    .woocommerce ul.products li.product .product-thumb .product-price, .woocommerce ul.products li.product .product-thumb .product-price .price, .woocommerce ul.products li.product .product-thumb .price del { display: inline-block; }
+    
+    .woocommerce ul.products li.product .product-thumb .product-price, .woocommerce ul.products li.product .product-thumb .price { 
+        -webkit-transition: all 300ms linear 0s; transition: all 300ms linear 0s; }
+
+/* #endregion - Product Listing - Thumb Price */

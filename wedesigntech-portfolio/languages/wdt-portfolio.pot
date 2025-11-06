@@ -1,0 +1,4123 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WeDesignTech Directory Addon\n"
+"POT-Creation-Date: 2023-10-20 17:58+0530\n"
+"PO-Revision-Date: 2019-06-06 18:59+0530\n"
+"Last-Translator: Admin <admin@iamdesigning.com>\n"
+"Language-Team: Designthemes Team\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_html__;esc_html_e;"
+"esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../custom-post-types/class/class.WooCommerce_Product_Data_Store.php:15
+msgid "Invalid product."
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:75
+#: ../custom-post-types/listings-post-type.php:77
+#: ../custom-post-types/listings-post-type.php:87
+#: ../custom-post-types/taxonomy-custom-fields.php:46
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:59
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:47
+#: ../shortcodes/shortcodes-default.php:380
+#: ../shortcodes/shortcodes-default.php:404
+#: ../shortcodes/shortcodes-default.php:428
+#: ../shortcodes/shortcodes-default.php:452
+#: ../shortcodes/shortcodes-default.php:469
+#: ../shortcodes/shortcodes-default.php:486
+#: ../shortcodes/shortcodes-default.php:503
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:76
+#, php-format
+msgid "All %1$s"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:78
+msgid "Add New"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:79
+#, php-format
+msgid "Add New %1$s"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:80
+#, php-format
+msgid "Edit %1$s"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:81
+#, php-format
+msgid "New %1$s"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:82
+#, php-format
+msgid "View %1$s"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:83
+#, php-format
+msgid "Search %1$s"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:84
+#, php-format
+msgid "No %1$s found"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:85
+#, php-format
+msgid "No %1$s found in Trash"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:86
+#, php-format
+msgid "Parent %1$s:"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:93
+#, php-format
+msgid "This is custom post type %1$s"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:151
+#: ../custom-post-types/listings-post-type.php:164
+#, php-format
+msgid "%1$s Categories"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:152
+#: ../wedesigntech-portfolio.php:194 ../wedesigntech-portfolio.php:208
+#, php-format
+msgid "%1$s Category"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:153
+#, php-format
+msgid "Search %1$s Categories"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:154
+#, php-format
+msgid "Popular %1$s Categories"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:155
+#, php-format
+msgid "All %1$s Categories"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:156
+#: ../custom-post-types/listings-post-type.php:157
+#, php-format
+msgid "Parent %1$s Category"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:158
+#, php-format
+msgid "Edit %1$s Category"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:159
+#, php-format
+msgid "Update %1$s Category"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:160
+#, php-format
+msgid "Add New %1$s Category"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:161
+#, php-format
+msgid "New %1$s Category"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:162
+#: ../custom-post-types/listings-post-type.php:189
+msgid "Add or remove"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:163
+#: ../custom-post-types/listings-post-type.php:190
+msgid "Choose from most used"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:178
+#: ../custom-post-types/listings-post-type.php:179
+#: ../custom-post-types/listings-post-type.php:191
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:255
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:290
+#: ../wedesigntech-portfolio.php:209
+#, php-format
+msgid "%1$s %2$s"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:180
+#, php-format
+msgid "Search %1$s %2$s"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:181
+#, php-format
+msgid "Popular %1$s %2$s"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:182
+#, php-format
+msgid "All %1$s %2$s"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:183
+#: ../custom-post-types/listings-post-type.php:184
+#, php-format
+msgid "Parent %1$s %2$s"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:185
+#, php-format
+msgid "Edit %1$s %2$s"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:186
+#, php-format
+msgid "Update %1$s %2$s"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:187
+#, php-format
+msgid "Add New %1$s %2$s"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:188
+#, php-format
+msgid "New %1$s %2$s"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:243
+msgid ""
+"MLS Number you have provided is not unique, please try with unique number."
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:381
+#, php-format
+msgid "%1$s Options"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:392
+#: ../custom-post-types/taxonomy-custom-fields.php:57
+#: ../custom-post-types/taxonomy-custom-fields.php:143
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:111
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:106
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:138
+#: ../page-builders/elementor/widgets/default/class-listings-taxonomy.php:69
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:143
+#: ../page-builders/visual-composer/modules/default/listings-taxonomy.php:57
+#: ../settings/settings-archives-utils.php:134 ../utils/utils-fields.php:48
+#: ../utils/utils-fields.php:49 ../utils/utils-fields.php:87
+#: ../utils/utils-fields.php:88
+msgid "Image"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:393
+#: ../modules/comments/utils.php:143 ../modules/comments/utils.php:185
+#: ../modules/comments/utils.php:412 ../modules/comments/utils.php:415
+#: ../modules/media-attachments/utils.php:27
+#: ../modules/media-attachments/utils.php:50 ../utils/utils-fields.php:33
+#: ../utils/utils-fields.php:72
+msgid "Title"
+msgstr ""
+
+#: ../custom-post-types/listings-post-type.php:394
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:60
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:48
+msgid "Author"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/listing-default-metabox.php:19
+#: ../modules/business-hours/page-builders/elementor/sf-open-now.php:32
+#: ../modules/business-hours/page-builders/elementor/sp-opening-hours-status.php:34
+#: ../modules/business-hours/page-builders/elementor/sp-opening-hours.php:34
+#: ../modules/comments/page-builders/elementor/sp-average-rating.php:34
+#: ../modules/comments/page-builders/elementor/sp-featured-comments.php:32
+#: ../modules/media-attachments/page-builders/elementor/sp-media-attachments.php:34
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:34
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:34
+#: ../modules/pricing/page-builders/elementor/sf-price-range.php:32
+#: ../modules/pricing/page-builders/elementor/sp-add-to-cart.php:34
+#: ../modules/pricing/page-builders/elementor/sp-price.php:34
+#: ../modules/search/page-builders/elementor/sf-categories.php:32
+#: ../modules/search/page-builders/elementor/sf-features.php:32
+#: ../modules/search/page-builders/elementor/sf-keyword.php:32
+#: ../modules/search/page-builders/elementor/sf-mls-number.php:32
+#: ../modules/search/page-builders/elementor/sf-order-by.php:32
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:38
+#: ../modules/search/page-builders/elementor/sf-submit-button.php:32
+#: ../modules/search/page-builders/elementor/sf-tags.php:32
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:34
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:40
+#: ../page-builders/elementor/widgets/default/class-listings-taxonomy.php:38
+#: ../page-builders/elementor/widgets/single-page/comments.php:32
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:34
+#: ../page-builders/elementor/widgets/single-page/contact-form.php:34
+#: ../page-builders/elementor/widgets/single-page/featured-image.php:34
+#: ../page-builders/elementor/widgets/single-page/featured-item.php:34
+#: ../page-builders/elementor/widgets/single-page/features.php:34
+#: ../page-builders/elementor/widgets/single-page/mls-number.php:34
+#: ../page-builders/elementor/widgets/single-page/navigation.php:34
+#: ../page-builders/elementor/widgets/single-page/post-date.php:34
+#: ../page-builders/elementor/widgets/single-page/social-links.php:34
+#: ../page-builders/elementor/widgets/single-page/taxonomy.php:36
+#: ../page-builders/elementor/widgets/single-page/utils.php:35
+#: ../settings/settings.php:10
+msgid "General"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/listing-default-metabox.php:24
+#: ../custom-post-types/metaboxes/tabs/features.php:3
+#: ../modules/search/page-builders/elementor/sf-features.php:18
+#: ../modules/search/page-builders/visual-composer/sf-features.php:9
+#: ../page-builders/elementor/widgets/single-page/features.php:18
+#: ../page-builders/visual-composer/modules/single-page/features.php:9
+msgid "Features"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/listing-default-metabox.php:29
+msgid "Contact Information"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/tabs/contact-info.php:3
+#: ../shortcodes/shortcodes-singlepage.php:900 ../utils/utils-listings.php:1080
+msgid "Email"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/tabs/contact-info.php:6
+#, php-format
+msgid "Add contact email for your %1$s here."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/tabs/contact-info.php:12
+#: ../shortcodes/shortcodes-singlepage.php:905 ../utils/utils-listings.php:1089
+msgid "Phone"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/tabs/contact-info.php:15
+#, php-format
+msgid "Add contact phone number for your %1$s here."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/tabs/contact-info.php:21
+msgid "Mobile"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/tabs/contact-info.php:24
+#, php-format
+msgid "Add contact mobile number for your %1$s here."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/tabs/contact-info.php:30
+msgid "Skype"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/tabs/contact-info.php:33
+#, php-format
+msgid "Add contact skype id for your %1$s here."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/tabs/contact-info.php:39
+msgid "Website"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/tabs/contact-info.php:42
+#, php-format
+msgid "Add website address for your %1$s here."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/tabs/contact-info.php:48
+msgid "Social Details"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/tabs/features.php:9
+msgid "Note:"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/tabs/features.php:11
+msgid "Use icon or image don't use both."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/tabs/features.php:12
+msgid ""
+"First field with numeric value is the tab id of this features item, which "
+"can be used in search form."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/tabs/features.php:13
+#, php-format
+msgid "Don't change the order of items for other %1$s."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/tabs/features.php:14
+#, php-format
+msgid ""
+"If anyone of the %1$s doesn't have any particular item add that with empty "
+"value, so that features search field will work correctly."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/tabs/general.php:3
+msgid "Page Template"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/tabs/general.php:10
+#: ../modules/search/page-builders/elementor/sf-mls-number.php:18
+#: ../modules/search/page-builders/visual-composer/sf-mls-number.php:9
+#: ../modules/search/shortcodes.php:525
+#: ../page-builders/elementor/widgets/single-page/mls-number.php:18
+#: ../page-builders/visual-composer/modules/single-page/mls-number.php:9
+#: ../page-builders/visual-composer/modules/single-page/navigation.php:9
+msgid "MLS Number"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/tabs/general.php:13
+msgid "Generate"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/tabs/general.php:14
+#, php-format
+msgid "Add MLS number for your %1$s here."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/tabs/general.php:22
+#: ../page-builders/elementor/widgets/single-page/featured-item.php:18
+#: ../page-builders/visual-composer/modules/single-page/featured-item.php:9
+msgid "Featured Item"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/tabs/general.php:30
+msgid "If you like to set this item as featured, choose \"Yes\""
+msgstr ""
+
+#: ../custom-post-types/metaboxes/tabs/general.php:38
+msgid "Excerpt Title"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/tabs/general.php:41
+#, php-format
+msgid "Add Excerpt title for your %1$s here."
+msgstr ""
+
+#: ../custom-post-types/metaboxes/woocommerce-metabox.php:13
+msgid "Regular price"
+msgstr ""
+
+#: ../custom-post-types/metaboxes/woocommerce-metabox.php:23
+msgid "Sale price"
+msgstr ""
+
+#: ../custom-post-types/taxonomy-custom-fields.php:45
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:95
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:89
+msgid "Category"
+msgstr ""
+
+#: ../custom-post-types/taxonomy-custom-fields.php:61
+#: ../custom-post-types/taxonomy-custom-fields.php:72
+#: ../custom-post-types/taxonomy-custom-fields.php:151
+#: ../custom-post-types/taxonomy-custom-fields.php:169
+msgid "Add Image"
+msgstr ""
+
+#: ../custom-post-types/taxonomy-custom-fields.php:64
+msgid ""
+"This image will be used for \"Taxonomy\" listing or single page shortcodes."
+msgstr ""
+
+#: ../custom-post-types/taxonomy-custom-fields.php:68
+#: ../custom-post-types/taxonomy-custom-fields.php:161
+#: ../page-builders/elementor/widgets/default/class-listings-taxonomy.php:71
+#: ../page-builders/visual-composer/modules/default/listings-taxonomy.php:59
+msgid "Icon Image"
+msgstr ""
+
+#: ../custom-post-types/taxonomy-custom-fields.php:75
+msgid ""
+"This icon image will be used for \"Taxonomy\" listing or single page "
+"shortcodes."
+msgstr ""
+
+#: ../custom-post-types/taxonomy-custom-fields.php:79
+#: ../custom-post-types/taxonomy-custom-fields.php:179
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:112
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:107
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:139
+#: ../page-builders/elementor/widgets/default/class-listings-taxonomy.php:70
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:144
+#: ../page-builders/visual-composer/modules/default/listings-taxonomy.php:58
+#: ../settings/settings-archives-utils.php:135 ../utils/utils-fields.php:45
+#: ../utils/utils-fields.php:84
+msgid "Icon"
+msgstr ""
+
+#: ../custom-post-types/taxonomy-custom-fields.php:81
+msgid ""
+"This icon will be used for \"Taxonomy\" listing or single page shortcodes."
+msgstr ""
+
+#: ../custom-post-types/taxonomy-custom-fields.php:85
+#: ../custom-post-types/taxonomy-custom-fields.php:190
+msgid "Icon Color"
+msgstr ""
+
+#: ../custom-post-types/taxonomy-custom-fields.php:87
+msgid ""
+"This icon color will be used for \"Taxonomy\" listing or single page "
+"shortcodes."
+msgstr ""
+
+#: ../custom-post-types/taxonomy-custom-fields.php:91
+#: ../custom-post-types/taxonomy-custom-fields.php:201
+msgid "Background Color"
+msgstr ""
+
+#: ../custom-post-types/taxonomy-custom-fields.php:93
+msgid ""
+"This background color will be used for \"Taxonomy\" listing or single page "
+"shortcodes."
+msgstr ""
+
+#: ../custom-post-types/taxonomy-custom-fields.php:152
+#: ../custom-post-types/taxonomy-custom-fields.php:170
+msgid "Remove Image"
+msgstr ""
+
+#: ../custom-post-types/taxonomy-custom-fields.php:155
+msgid "This image will be used for \"Taxonomy\" shortcodes."
+msgstr ""
+
+#: ../custom-post-types/taxonomy-custom-fields.php:173
+#, php-format
+msgid ""
+"This icon image will be used in \"Taxonomy\" shortcodes, %1$s listing & Maps."
+msgstr ""
+
+#: ../custom-post-types/taxonomy-custom-fields.php:184
+msgid "This icon will be used for both \"Taxonomy\" shortcodes & Maps."
+msgstr ""
+
+#: ../custom-post-types/taxonomy-custom-fields.php:195
+msgid "This icon color will be used for both \"Taxonomy\" shortcodes & Maps."
+msgstr ""
+
+#: ../custom-post-types/taxonomy-custom-fields.php:206
+#, php-format
+msgid ""
+"This background color will be used in \"Taxonomy\" shortcodes, %1$s listing "
+"& Maps."
+msgstr ""
+
+#: ../modules/business-hours/page-builders/elementor/sf-open-now.php:18
+#: ../modules/business-hours/page-builders/visual-composer/sf-open-now.php:7
+#: ../modules/business-hours/shortcodes.php:210
+msgid "Open Now"
+msgstr ""
+
+#: ../modules/business-hours/page-builders/elementor/sf-open-now.php:36
+#: ../modules/business-hours/page-builders/visual-composer/sf-open-now.php:16
+#: ../modules/pricing/page-builders/elementor/sf-price-range.php:50
+#: ../modules/pricing/page-builders/visual-composer/sf-price-range.php:38
+#: ../modules/search/page-builders/elementor/sf-categories.php:67
+#: ../modules/search/page-builders/elementor/sf-features.php:106
+#: ../modules/search/page-builders/elementor/sf-keyword.php:43
+#: ../modules/search/page-builders/elementor/sf-mls-number.php:43
+#: ../modules/search/page-builders/elementor/sf-order-by.php:99
+#: ../modules/search/page-builders/elementor/sf-tags.php:67
+#: ../modules/search/page-builders/visual-composer/sf-categories.php:58
+#: ../modules/search/page-builders/visual-composer/sf-features.php:108
+#: ../modules/search/page-builders/visual-composer/sf-keyword.php:25
+#: ../modules/search/page-builders/visual-composer/sf-mls-number.php:27
+#: ../modules/search/page-builders/visual-composer/sf-order-by.php:99
+#: ../modules/search/page-builders/visual-composer/sf-tags.php:58
+msgid "Ajax Load"
+msgstr ""
+
+#: ../modules/business-hours/page-builders/elementor/sf-open-now.php:39
+#: ../modules/business-hours/page-builders/elementor/sp-opening-hours.php:48
+#: ../modules/business-hours/page-builders/visual-composer/sf-open-now.php:20
+#: ../modules/business-hours/page-builders/visual-composer/sp-opening-hours.php:32
+#: ../modules/comments/page-builders/elementor/sp-featured-comments.php:39
+#: ../modules/comments/page-builders/elementor/sp-featured-comments.php:49
+#: ../modules/comments/page-builders/elementor/sp-featured-comments.php:59
+#: ../modules/comments/page-builders/visual-composer/sp-featured-comments.php:19
+#: ../modules/comments/page-builders/visual-composer/sp-featured-comments.php:32
+#: ../modules/comments/page-builders/visual-composer/sp-featured-comments.php:45
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:77
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:88
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:99
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:62
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:73
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:129
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:140
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:151
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:191
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:69
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:82
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:95
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:169
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:184
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:199
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:251
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:50
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:63
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:128
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:143
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:158
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:210
+#: ../modules/pricing/page-builders/elementor/sf-price-range.php:53
+#: ../modules/pricing/page-builders/visual-composer/sf-price-range.php:42
+#: ../modules/search/page-builders/elementor/sf-categories.php:70
+#: ../modules/search/page-builders/elementor/sf-categories.php:88
+#: ../modules/search/page-builders/elementor/sf-features.php:109
+#: ../modules/search/page-builders/elementor/sf-keyword.php:46
+#: ../modules/search/page-builders/elementor/sf-mls-number.php:46
+#: ../modules/search/page-builders/elementor/sf-order-by.php:58
+#: ../modules/search/page-builders/elementor/sf-order-by.php:69
+#: ../modules/search/page-builders/elementor/sf-order-by.php:80
+#: ../modules/search/page-builders/elementor/sf-order-by.php:91
+#: ../modules/search/page-builders/elementor/sf-order-by.php:102
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:92
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:142
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:154
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:176
+#: ../modules/search/page-builders/elementor/sf-tags.php:70
+#: ../modules/search/page-builders/visual-composer/sf-categories.php:62
+#: ../modules/search/page-builders/visual-composer/sf-categories.php:83
+#: ../modules/search/page-builders/visual-composer/sf-features.php:112
+#: ../modules/search/page-builders/visual-composer/sf-keyword.php:29
+#: ../modules/search/page-builders/visual-composer/sf-mls-number.php:31
+#: ../modules/search/page-builders/visual-composer/sf-order-by.php:47
+#: ../modules/search/page-builders/visual-composer/sf-order-by.php:61
+#: ../modules/search/page-builders/visual-composer/sf-order-by.php:75
+#: ../modules/search/page-builders/visual-composer/sf-order-by.php:89
+#: ../modules/search/page-builders/visual-composer/sf-order-by.php:103
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:82
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:146
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:161
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:185
+#: ../modules/search/page-builders/visual-composer/sf-tags.php:62
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:59
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:70
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:81
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:92
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:103
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:114
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:125
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:136
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:46
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:59
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:72
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:85
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:98
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:111
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:124
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:137
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:83
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:106
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:118
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:172
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:184
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:206
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:320
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:366
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:378
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:390
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:402
+#: ../page-builders/elementor/widgets/default/class-listings-taxonomy.php:102
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:70
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:81
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:92
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:103
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:114
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:125
+#: ../page-builders/elementor/widgets/single-page/contact-form.php:73
+#: ../page-builders/elementor/widgets/single-page/post-date.php:61
+#: ../page-builders/elementor/widgets/single-page/post-date.php:72
+#: ../page-builders/elementor/widgets/single-page/post-date.php:83
+#: ../page-builders/elementor/widgets/single-page/taxonomy.php:75
+#: ../page-builders/elementor/widgets/single-page/utils.php:49
+#: ../page-builders/elementor/widgets/single-page/utils.php:60
+#: ../page-builders/elementor/widgets/single-page/utils.php:71
+#: ../page-builders/elementor/widgets/single-page/utils.php:82
+#: ../page-builders/elementor/widgets/single-page/utils.php:93
+#: ../page-builders/elementor/widgets/single-page/utils.php:104
+#: ../page-builders/elementor/widgets/single-page/utils.php:115
+#: ../page-builders/elementor/widgets/single-page/utils.php:126
+#: ../page-builders/elementor/widgets/single-page/utils.php:137
+#: ../page-builders/elementor/widgets/single-page/utils.php:148
+#: ../page-builders/elementor/widgets/single-page/utils.php:159
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:74
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:103
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:118
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:186
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:201
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:225
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:381
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:441
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:457
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:473
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:489
+#: ../page-builders/visual-composer/modules/default/listings-taxonomy.php:99
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:61
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:74
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:87
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:100
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:113
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:126
+#: ../page-builders/visual-composer/modules/single-page/contact-form.php:65
+#: ../page-builders/visual-composer/modules/single-page/post-date.php:48
+#: ../page-builders/visual-composer/modules/single-page/post-date.php:61
+#: ../page-builders/visual-composer/modules/single-page/post-date.php:74
+#: ../page-builders/visual-composer/modules/single-page/taxonomy.php:67
+#: ../page-builders/visual-composer/modules/single-page/utils.php:32
+#: ../page-builders/visual-composer/modules/single-page/utils.php:45
+#: ../page-builders/visual-composer/modules/single-page/utils.php:58
+#: ../page-builders/visual-composer/modules/single-page/utils.php:71
+#: ../page-builders/visual-composer/modules/single-page/utils.php:84
+#: ../page-builders/visual-composer/modules/single-page/utils.php:97
+#: ../page-builders/visual-composer/modules/single-page/utils.php:110
+#: ../page-builders/visual-composer/modules/single-page/utils.php:123
+#: ../page-builders/visual-composer/modules/single-page/utils.php:136
+#: ../page-builders/visual-composer/modules/single-page/utils.php:149
+#: ../page-builders/visual-composer/modules/single-page/utils.php:162
+msgid "False"
+msgstr ""
+
+#: ../modules/business-hours/page-builders/elementor/sf-open-now.php:40
+#: ../modules/business-hours/page-builders/elementor/sp-opening-hours.php:49
+#: ../modules/business-hours/page-builders/visual-composer/sf-open-now.php:21
+#: ../modules/business-hours/page-builders/visual-composer/sp-opening-hours.php:33
+#: ../modules/comments/page-builders/elementor/sp-featured-comments.php:40
+#: ../modules/comments/page-builders/elementor/sp-featured-comments.php:50
+#: ../modules/comments/page-builders/elementor/sp-featured-comments.php:60
+#: ../modules/comments/page-builders/visual-composer/sp-featured-comments.php:20
+#: ../modules/comments/page-builders/visual-composer/sp-featured-comments.php:33
+#: ../modules/comments/page-builders/visual-composer/sp-featured-comments.php:46
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:78
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:89
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:100
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:63
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:74
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:130
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:141
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:152
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:192
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:70
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:83
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:96
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:170
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:185
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:200
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:252
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:51
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:64
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:129
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:144
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:159
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:211
+#: ../modules/pricing/page-builders/elementor/sf-price-range.php:54
+#: ../modules/pricing/page-builders/visual-composer/sf-price-range.php:43
+#: ../modules/search/page-builders/elementor/sf-categories.php:71
+#: ../modules/search/page-builders/elementor/sf-categories.php:89
+#: ../modules/search/page-builders/elementor/sf-features.php:110
+#: ../modules/search/page-builders/elementor/sf-keyword.php:47
+#: ../modules/search/page-builders/elementor/sf-mls-number.php:47
+#: ../modules/search/page-builders/elementor/sf-order-by.php:59
+#: ../modules/search/page-builders/elementor/sf-order-by.php:70
+#: ../modules/search/page-builders/elementor/sf-order-by.php:81
+#: ../modules/search/page-builders/elementor/sf-order-by.php:92
+#: ../modules/search/page-builders/elementor/sf-order-by.php:103
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:93
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:143
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:155
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:177
+#: ../modules/search/page-builders/elementor/sf-tags.php:71
+#: ../modules/search/page-builders/visual-composer/sf-categories.php:63
+#: ../modules/search/page-builders/visual-composer/sf-categories.php:84
+#: ../modules/search/page-builders/visual-composer/sf-features.php:113
+#: ../modules/search/page-builders/visual-composer/sf-keyword.php:30
+#: ../modules/search/page-builders/visual-composer/sf-mls-number.php:32
+#: ../modules/search/page-builders/visual-composer/sf-order-by.php:48
+#: ../modules/search/page-builders/visual-composer/sf-order-by.php:62
+#: ../modules/search/page-builders/visual-composer/sf-order-by.php:76
+#: ../modules/search/page-builders/visual-composer/sf-order-by.php:90
+#: ../modules/search/page-builders/visual-composer/sf-order-by.php:104
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:83
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:147
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:162
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:186
+#: ../modules/search/page-builders/visual-composer/sf-tags.php:63
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:60
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:71
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:82
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:93
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:104
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:115
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:126
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:137
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:47
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:60
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:73
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:86
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:99
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:112
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:125
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:138
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:84
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:107
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:119
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:173
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:185
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:207
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:321
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:367
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:379
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:391
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:403
+#: ../page-builders/elementor/widgets/default/class-listings-taxonomy.php:103
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:71
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:82
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:93
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:104
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:115
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:126
+#: ../page-builders/elementor/widgets/single-page/contact-form.php:74
+#: ../page-builders/elementor/widgets/single-page/post-date.php:62
+#: ../page-builders/elementor/widgets/single-page/post-date.php:73
+#: ../page-builders/elementor/widgets/single-page/post-date.php:84
+#: ../page-builders/elementor/widgets/single-page/taxonomy.php:76
+#: ../page-builders/elementor/widgets/single-page/utils.php:50
+#: ../page-builders/elementor/widgets/single-page/utils.php:61
+#: ../page-builders/elementor/widgets/single-page/utils.php:72
+#: ../page-builders/elementor/widgets/single-page/utils.php:83
+#: ../page-builders/elementor/widgets/single-page/utils.php:94
+#: ../page-builders/elementor/widgets/single-page/utils.php:105
+#: ../page-builders/elementor/widgets/single-page/utils.php:116
+#: ../page-builders/elementor/widgets/single-page/utils.php:127
+#: ../page-builders/elementor/widgets/single-page/utils.php:138
+#: ../page-builders/elementor/widgets/single-page/utils.php:149
+#: ../page-builders/elementor/widgets/single-page/utils.php:160
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:75
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:104
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:119
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:187
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:202
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:226
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:382
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:442
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:458
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:474
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:490
+#: ../page-builders/visual-composer/modules/default/listings-taxonomy.php:100
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:62
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:75
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:88
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:101
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:114
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:127
+#: ../page-builders/visual-composer/modules/single-page/contact-form.php:66
+#: ../page-builders/visual-composer/modules/single-page/post-date.php:49
+#: ../page-builders/visual-composer/modules/single-page/post-date.php:62
+#: ../page-builders/visual-composer/modules/single-page/post-date.php:75
+#: ../page-builders/visual-composer/modules/single-page/taxonomy.php:68
+#: ../page-builders/visual-composer/modules/single-page/utils.php:33
+#: ../page-builders/visual-composer/modules/single-page/utils.php:46
+#: ../page-builders/visual-composer/modules/single-page/utils.php:59
+#: ../page-builders/visual-composer/modules/single-page/utils.php:72
+#: ../page-builders/visual-composer/modules/single-page/utils.php:85
+#: ../page-builders/visual-composer/modules/single-page/utils.php:98
+#: ../page-builders/visual-composer/modules/single-page/utils.php:111
+#: ../page-builders/visual-composer/modules/single-page/utils.php:124
+#: ../page-builders/visual-composer/modules/single-page/utils.php:137
+#: ../page-builders/visual-composer/modules/single-page/utils.php:150
+#: ../page-builders/visual-composer/modules/single-page/utils.php:163
+msgid "True"
+msgstr ""
+
+#: ../modules/business-hours/page-builders/elementor/sf-open-now.php:42
+#: ../modules/business-hours/page-builders/visual-composer/sf-open-now.php:17
+#: ../modules/pricing/page-builders/elementor/sf-price-range.php:56
+#: ../modules/pricing/page-builders/visual-composer/sf-price-range.php:39
+#: ../modules/search/page-builders/elementor/sf-categories.php:73
+#: ../modules/search/page-builders/elementor/sf-features.php:112
+#: ../modules/search/page-builders/elementor/sf-keyword.php:49
+#: ../modules/search/page-builders/elementor/sf-mls-number.php:49
+#: ../modules/search/page-builders/elementor/sf-order-by.php:105
+#: ../modules/search/page-builders/elementor/sf-tags.php:73
+#: ../modules/search/page-builders/visual-composer/sf-categories.php:59
+#: ../modules/search/page-builders/visual-composer/sf-features.php:109
+#: ../modules/search/page-builders/visual-composer/sf-keyword.php:26
+#: ../modules/search/page-builders/visual-composer/sf-mls-number.php:28
+#: ../modules/search/page-builders/visual-composer/sf-order-by.php:100
+#: ../modules/search/page-builders/visual-composer/sf-tags.php:59
+msgid "If you want to display the output in same page choose \"True\" here."
+msgstr ""
+
+#: ../modules/business-hours/page-builders/elementor/sf-open-now.php:47
+#: ../modules/business-hours/page-builders/elementor/sp-opening-hours-status.php:59
+#: ../modules/business-hours/page-builders/elementor/sp-opening-hours.php:56
+#: ../modules/business-hours/page-builders/visual-composer/sf-open-now.php:28
+#: ../modules/business-hours/page-builders/visual-composer/sp-opening-hours-status.php:45
+#: ../modules/business-hours/page-builders/visual-composer/sp-opening-hours.php:40
+#: ../modules/comments/page-builders/elementor/sp-average-rating.php:69
+#: ../modules/comments/page-builders/elementor/sp-featured-comments.php:66
+#: ../modules/comments/page-builders/visual-composer/sp-average-rating.php:60
+#: ../modules/comments/page-builders/visual-composer/sp-featured-comments.php:55
+#: ../modules/media-attachments/page-builders/elementor/sp-media-attachments.php:59
+#: ../modules/media-attachments/page-builders/visual-composer/sp-media-attachments.php:45
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:114
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:81
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:113
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:72
+#: ../modules/pricing/page-builders/elementor/sf-price-range.php:61
+#: ../modules/pricing/page-builders/elementor/sp-add-to-cart.php:45
+#: ../modules/pricing/page-builders/elementor/sp-price.php:57
+#: ../modules/pricing/page-builders/visual-composer/sf-price-range.php:51
+#: ../modules/pricing/page-builders/visual-composer/sp-add-to-cart.php:28
+#: ../modules/pricing/page-builders/visual-composer/sp-price.php:44
+#: ../modules/search/page-builders/elementor/sf-categories.php:104
+#: ../modules/search/page-builders/elementor/sf-features.php:117
+#: ../modules/search/page-builders/elementor/sf-keyword.php:54
+#: ../modules/search/page-builders/elementor/sf-mls-number.php:54
+#: ../modules/search/page-builders/elementor/sf-order-by.php:110
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:184
+#: ../modules/search/page-builders/elementor/sf-submit-button.php:55
+#: ../modules/search/page-builders/elementor/sf-tags.php:78
+#: ../modules/search/page-builders/visual-composer/sf-categories.php:104
+#: ../modules/search/page-builders/visual-composer/sf-features.php:121
+#: ../modules/search/page-builders/visual-composer/sf-keyword.php:38
+#: ../modules/search/page-builders/visual-composer/sf-mls-number.php:40
+#: ../modules/search/page-builders/visual-composer/sf-order-by.php:112
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:196
+#: ../modules/search/page-builders/visual-composer/sf-submit-button.php:43
+#: ../modules/search/page-builders/visual-composer/sf-tags.php:71
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:144
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:146
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:226
+#: ../page-builders/elementor/widgets/default/class-listings-taxonomy.php:118
+#: ../page-builders/elementor/widgets/single-page/comments.php:36
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:133
+#: ../page-builders/elementor/widgets/single-page/contact-form.php:81
+#: ../page-builders/elementor/widgets/single-page/featured-image.php:59
+#: ../page-builders/elementor/widgets/single-page/featured-item.php:57
+#: ../page-builders/elementor/widgets/single-page/features.php:82
+#: ../page-builders/elementor/widgets/single-page/mls-number.php:57
+#: ../page-builders/elementor/widgets/single-page/navigation.php:57
+#: ../page-builders/elementor/widgets/single-page/post-date.php:91
+#: ../page-builders/elementor/widgets/single-page/social-links.php:63
+#: ../page-builders/elementor/widgets/single-page/taxonomy.php:83
+#: ../page-builders/elementor/widgets/single-page/utils.php:167
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:251
+#: ../page-builders/visual-composer/modules/default/listings-taxonomy.php:120
+#: ../page-builders/visual-composer/modules/single-page/comments.php:16
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:135
+#: ../page-builders/visual-composer/modules/single-page/contact-form.php:74
+#: ../page-builders/visual-composer/modules/single-page/featured-image.php:46
+#: ../page-builders/visual-composer/modules/single-page/featured-item.php:44
+#: ../page-builders/visual-composer/modules/single-page/features.php:74
+#: ../page-builders/visual-composer/modules/single-page/mls-number.php:44
+#: ../page-builders/visual-composer/modules/single-page/navigation.php:44
+#: ../page-builders/visual-composer/modules/single-page/post-date.php:83
+#: ../page-builders/visual-composer/modules/single-page/social-links.php:50
+#: ../page-builders/visual-composer/modules/single-page/taxonomy.php:79
+#: ../page-builders/visual-composer/modules/single-page/utils.php:171
+msgid "Class"
+msgstr ""
+
+#: ../modules/business-hours/page-builders/elementor/sf-open-now.php:49
+#: ../modules/business-hours/page-builders/elementor/sp-opening-hours-status.php:61
+#: ../modules/business-hours/page-builders/elementor/sp-opening-hours.php:58
+#: ../modules/business-hours/page-builders/visual-composer/sf-open-now.php:30
+#: ../modules/business-hours/page-builders/visual-composer/sp-opening-hours-status.php:47
+#: ../modules/business-hours/page-builders/visual-composer/sp-opening-hours.php:42
+#: ../modules/comments/page-builders/elementor/sp-average-rating.php:71
+#: ../modules/comments/page-builders/elementor/sp-featured-comments.php:68
+#: ../modules/comments/page-builders/visual-composer/sp-average-rating.php:62
+#: ../modules/comments/page-builders/visual-composer/sp-featured-comments.php:57
+#: ../modules/media-attachments/page-builders/elementor/sp-media-attachments.php:61
+#: ../modules/media-attachments/page-builders/visual-composer/sp-media-attachments.php:47
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:116
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:83
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:115
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:74
+#: ../modules/pricing/page-builders/elementor/sf-price-range.php:63
+#: ../modules/pricing/page-builders/elementor/sp-add-to-cart.php:47
+#: ../modules/pricing/page-builders/elementor/sp-price.php:59
+#: ../modules/pricing/page-builders/visual-composer/sf-price-range.php:53
+#: ../modules/pricing/page-builders/visual-composer/sp-add-to-cart.php:30
+#: ../modules/pricing/page-builders/visual-composer/sp-price.php:46
+#: ../modules/search/page-builders/elementor/sf-categories.php:106
+#: ../modules/search/page-builders/elementor/sf-features.php:119
+#: ../modules/search/page-builders/elementor/sf-keyword.php:56
+#: ../modules/search/page-builders/elementor/sf-mls-number.php:56
+#: ../modules/search/page-builders/elementor/sf-order-by.php:112
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:186
+#: ../modules/search/page-builders/elementor/sf-submit-button.php:57
+#: ../modules/search/page-builders/elementor/sf-tags.php:80
+#: ../modules/search/page-builders/visual-composer/sf-categories.php:106
+#: ../modules/search/page-builders/visual-composer/sf-features.php:123
+#: ../modules/search/page-builders/visual-composer/sf-keyword.php:40
+#: ../modules/search/page-builders/visual-composer/sf-mls-number.php:42
+#: ../modules/search/page-builders/visual-composer/sf-order-by.php:114
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:198
+#: ../modules/search/page-builders/visual-composer/sf-submit-button.php:45
+#: ../modules/search/page-builders/visual-composer/sf-tags.php:73
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:146
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:148
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:228
+#: ../page-builders/elementor/widgets/default/class-listings-taxonomy.php:120
+#: ../page-builders/elementor/widgets/single-page/comments.php:38
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:135
+#: ../page-builders/elementor/widgets/single-page/contact-form.php:83
+#: ../page-builders/elementor/widgets/single-page/featured-image.php:61
+#: ../page-builders/elementor/widgets/single-page/featured-item.php:59
+#: ../page-builders/elementor/widgets/single-page/features.php:84
+#: ../page-builders/elementor/widgets/single-page/mls-number.php:59
+#: ../page-builders/elementor/widgets/single-page/navigation.php:59
+#: ../page-builders/elementor/widgets/single-page/post-date.php:93
+#: ../page-builders/elementor/widgets/single-page/social-links.php:65
+#: ../page-builders/elementor/widgets/single-page/taxonomy.php:85
+#: ../page-builders/elementor/widgets/single-page/utils.php:169
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:253
+#: ../page-builders/visual-composer/modules/default/listings-taxonomy.php:122
+#: ../page-builders/visual-composer/modules/single-page/comments.php:18
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:137
+#: ../page-builders/visual-composer/modules/single-page/contact-form.php:76
+#: ../page-builders/visual-composer/modules/single-page/featured-image.php:48
+#: ../page-builders/visual-composer/modules/single-page/featured-item.php:46
+#: ../page-builders/visual-composer/modules/single-page/features.php:76
+#: ../page-builders/visual-composer/modules/single-page/mls-number.php:46
+#: ../page-builders/visual-composer/modules/single-page/navigation.php:46
+#: ../page-builders/visual-composer/modules/single-page/post-date.php:85
+#: ../page-builders/visual-composer/modules/single-page/social-links.php:52
+#: ../page-builders/visual-composer/modules/single-page/taxonomy.php:81
+#: ../page-builders/visual-composer/modules/single-page/utils.php:173
+msgid "If you wish you can add additional class name here."
+msgstr ""
+
+#: ../modules/business-hours/page-builders/elementor/sp-opening-hours-status.php:18
+#: ../modules/business-hours/page-builders/visual-composer/sp-opening-hours-status.php:9
+msgid "Opening Hours - Status"
+msgstr ""
+
+#: ../modules/business-hours/page-builders/elementor/sp-opening-hours-status.php:38
+#: ../modules/business-hours/page-builders/elementor/sp-opening-hours.php:38
+#: ../modules/business-hours/page-builders/visual-composer/sp-opening-hours-status.php:18
+#: ../modules/business-hours/page-builders/visual-composer/sp-opening-hours.php:18
+#: ../modules/comments/page-builders/elementor/sp-average-rating.php:38
+#: ../modules/comments/page-builders/visual-composer/sp-average-rating.php:18
+#: ../modules/media-attachments/page-builders/elementor/sp-media-attachments.php:38
+#: ../modules/media-attachments/page-builders/visual-composer/sp-media-attachments.php:18
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:38
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:38
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:18
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:18
+#: ../modules/pricing/page-builders/elementor/sp-add-to-cart.php:38
+#: ../modules/pricing/page-builders/elementor/sp-price.php:38
+#: ../modules/pricing/page-builders/visual-composer/sp-add-to-cart.php:18
+#: ../modules/pricing/page-builders/visual-composer/sp-price.php:18
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:38
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:18
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:38
+#: ../page-builders/elementor/widgets/single-page/contact-form.php:38
+#: ../page-builders/elementor/widgets/single-page/featured-image.php:38
+#: ../page-builders/elementor/widgets/single-page/featured-item.php:38
+#: ../page-builders/elementor/widgets/single-page/features.php:38
+#: ../page-builders/elementor/widgets/single-page/mls-number.php:38
+#: ../page-builders/elementor/widgets/single-page/navigation.php:38
+#: ../page-builders/elementor/widgets/single-page/post-date.php:38
+#: ../page-builders/elementor/widgets/single-page/social-links.php:38
+#: ../page-builders/elementor/widgets/single-page/taxonomy.php:40
+#: ../page-builders/elementor/widgets/single-page/utils.php:39
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:18
+#: ../page-builders/visual-composer/modules/single-page/contact-form.php:18
+#: ../page-builders/visual-composer/modules/single-page/featured-image.php:18
+#: ../page-builders/visual-composer/modules/single-page/featured-item.php:18
+#: ../page-builders/visual-composer/modules/single-page/features.php:18
+#: ../page-builders/visual-composer/modules/single-page/mls-number.php:18
+#: ../page-builders/visual-composer/modules/single-page/navigation.php:18
+#: ../page-builders/visual-composer/modules/single-page/post-date.php:18
+#: ../page-builders/visual-composer/modules/single-page/social-links.php:18
+#: ../page-builders/visual-composer/modules/single-page/taxonomy.php:21
+#: ../page-builders/visual-composer/modules/single-page/utils.php:19
+#, php-format
+msgid "%1$s Id"
+msgstr ""
+
+#: ../modules/business-hours/page-builders/elementor/sp-opening-hours-status.php:40
+#: ../modules/business-hours/page-builders/elementor/sp-opening-hours.php:40
+#: ../modules/comments/page-builders/elementor/sp-average-rating.php:40
+#: ../modules/media-attachments/page-builders/elementor/sp-media-attachments.php:40
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:40
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:40
+#: ../modules/pricing/page-builders/elementor/sp-add-to-cart.php:40
+#: ../modules/pricing/page-builders/elementor/sp-price.php:40
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:40
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:40
+#: ../page-builders/elementor/widgets/single-page/contact-form.php:40
+#: ../page-builders/elementor/widgets/single-page/featured-image.php:40
+#: ../page-builders/elementor/widgets/single-page/featured-item.php:40
+#: ../page-builders/elementor/widgets/single-page/features.php:40
+#: ../page-builders/elementor/widgets/single-page/mls-number.php:40
+#: ../page-builders/elementor/widgets/single-page/post-date.php:40
+#: ../page-builders/elementor/widgets/single-page/social-links.php:40
+#: ../page-builders/elementor/widgets/single-page/taxonomy.php:42
+#: ../page-builders/elementor/widgets/single-page/utils.php:41
+#, php-format
+msgid ""
+"Provide %1$s id to display your item. No need to provide ID if it is used in "
+"%1$s single page."
+msgstr ""
+
+#: ../modules/business-hours/page-builders/elementor/sp-opening-hours-status.php:45
+#: ../modules/business-hours/page-builders/visual-composer/sp-opening-hours-status.php:28
+#: ../modules/comments/page-builders/elementor/sp-average-rating.php:57
+#: ../modules/comments/page-builders/visual-composer/sp-average-rating.php:44
+#: ../modules/media-attachments/page-builders/elementor/sp-media-attachments.php:45
+#: ../modules/media-attachments/page-builders/visual-composer/sp-media-attachments.php:28
+#: ../modules/pricing/page-builders/elementor/sp-price.php:45
+#: ../modules/pricing/page-builders/visual-composer/sp-price.php:28
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:42
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:22
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:45
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:28
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:44
+#: ../page-builders/elementor/widgets/default/class-listings-taxonomy.php:50
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:45
+#: ../page-builders/elementor/widgets/single-page/featured-item.php:45
+#: ../page-builders/elementor/widgets/single-page/features.php:45
+#: ../page-builders/elementor/widgets/single-page/mls-number.php:45
+#: ../page-builders/elementor/widgets/single-page/navigation.php:45
+#: ../page-builders/elementor/widgets/single-page/post-date.php:45
+#: ../page-builders/elementor/widgets/single-page/social-links.php:45
+#: ../page-builders/elementor/widgets/single-page/taxonomy.php:55
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:27
+#: ../page-builders/visual-composer/modules/default/listings-taxonomy.php:34
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:28
+#: ../page-builders/visual-composer/modules/single-page/featured-item.php:28
+#: ../page-builders/visual-composer/modules/single-page/features.php:28
+#: ../page-builders/visual-composer/modules/single-page/mls-number.php:28
+#: ../page-builders/visual-composer/modules/single-page/navigation.php:28
+#: ../page-builders/visual-composer/modules/single-page/post-date.php:27
+#: ../page-builders/visual-composer/modules/single-page/social-links.php:28
+#: ../page-builders/visual-composer/modules/single-page/taxonomy.php:43
+msgid "Type"
+msgstr ""
+
+#: ../modules/business-hours/page-builders/elementor/sp-opening-hours-status.php:48
+#: ../modules/business-hours/page-builders/visual-composer/sp-opening-hours-status.php:31
+#: ../modules/comments/page-builders/elementor/sp-average-rating.php:60
+#: ../modules/comments/page-builders/visual-composer/sp-average-rating.php:47
+#: ../modules/media-attachments/page-builders/elementor/sp-media-attachments.php:48
+#: ../modules/media-attachments/page-builders/visual-composer/sp-media-attachments.php:31
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:202
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:266
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:225
+#: ../modules/pricing/page-builders/elementor/sp-price.php:48
+#: ../modules/pricing/page-builders/visual-composer/sp-price.php:31
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:45
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:25
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:48
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:31
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:47
+#: ../page-builders/elementor/widgets/default/class-listings-taxonomy.php:53
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:48
+#: ../page-builders/elementor/widgets/single-page/featured-item.php:48
+#: ../page-builders/elementor/widgets/single-page/features.php:48
+#: ../page-builders/elementor/widgets/single-page/mls-number.php:48
+#: ../page-builders/elementor/widgets/single-page/navigation.php:48
+#: ../page-builders/elementor/widgets/single-page/post-date.php:48
+#: ../page-builders/elementor/widgets/single-page/social-links.php:49
+#: ../page-builders/elementor/widgets/single-page/taxonomy.php:58
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:30
+#: ../page-builders/visual-composer/modules/default/listings-taxonomy.php:37
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:31
+#: ../page-builders/visual-composer/modules/single-page/featured-item.php:31
+#: ../page-builders/visual-composer/modules/single-page/features.php:31
+#: ../page-builders/visual-composer/modules/single-page/mls-number.php:31
+#: ../page-builders/visual-composer/modules/single-page/navigation.php:31
+#: ../page-builders/visual-composer/modules/single-page/post-date.php:30
+#: ../page-builders/visual-composer/modules/single-page/social-links.php:32
+#: ../page-builders/visual-composer/modules/single-page/taxonomy.php:46
+#: ../settings/settings-archives-utils.php:20
+msgid "Type 1"
+msgstr ""
+
+#: ../modules/business-hours/page-builders/elementor/sp-opening-hours-status.php:49
+#: ../modules/business-hours/page-builders/visual-composer/sp-opening-hours-status.php:32
+#: ../modules/comments/page-builders/elementor/sp-average-rating.php:61
+#: ../modules/comments/page-builders/visual-composer/sp-average-rating.php:48
+#: ../modules/media-attachments/page-builders/elementor/sp-media-attachments.php:49
+#: ../modules/media-attachments/page-builders/visual-composer/sp-media-attachments.php:32
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:203
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:267
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:226
+#: ../modules/pricing/page-builders/elementor/sp-price.php:49
+#: ../modules/pricing/page-builders/visual-composer/sp-price.php:32
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:46
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:26
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:49
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:32
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:48
+#: ../page-builders/elementor/widgets/default/class-listings-taxonomy.php:54
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:49
+#: ../page-builders/elementor/widgets/single-page/featured-item.php:49
+#: ../page-builders/elementor/widgets/single-page/features.php:49
+#: ../page-builders/elementor/widgets/single-page/mls-number.php:49
+#: ../page-builders/elementor/widgets/single-page/navigation.php:49
+#: ../page-builders/elementor/widgets/single-page/post-date.php:49
+#: ../page-builders/elementor/widgets/single-page/social-links.php:50
+#: ../page-builders/elementor/widgets/single-page/taxonomy.php:59
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:31
+#: ../page-builders/visual-composer/modules/default/listings-taxonomy.php:38
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:32
+#: ../page-builders/visual-composer/modules/single-page/featured-item.php:32
+#: ../page-builders/visual-composer/modules/single-page/features.php:32
+#: ../page-builders/visual-composer/modules/single-page/mls-number.php:32
+#: ../page-builders/visual-composer/modules/single-page/navigation.php:32
+#: ../page-builders/visual-composer/modules/single-page/post-date.php:31
+#: ../page-builders/visual-composer/modules/single-page/social-links.php:33
+#: ../page-builders/visual-composer/modules/single-page/taxonomy.php:47
+#: ../settings/settings-archives-utils.php:21
+msgid "Type 2"
+msgstr ""
+
+#: ../modules/business-hours/page-builders/elementor/sp-opening-hours-status.php:50
+#: ../modules/business-hours/page-builders/visual-composer/sp-opening-hours-status.php:33
+#: ../modules/comments/page-builders/elementor/sp-average-rating.php:62
+#: ../modules/comments/page-builders/visual-composer/sp-average-rating.php:49
+#: ../modules/media-attachments/page-builders/elementor/sp-media-attachments.php:50
+#: ../modules/media-attachments/page-builders/visual-composer/sp-media-attachments.php:33
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:204
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:227
+#: ../modules/pricing/page-builders/elementor/sp-price.php:50
+#: ../modules/pricing/page-builders/visual-composer/sp-price.php:33
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:47
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:27
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:49
+#: ../page-builders/elementor/widgets/default/class-listings-taxonomy.php:55
+#: ../page-builders/elementor/widgets/single-page/featured-item.php:50
+#: ../page-builders/elementor/widgets/single-page/features.php:50
+#: ../page-builders/elementor/widgets/single-page/mls-number.php:50
+#: ../page-builders/elementor/widgets/single-page/navigation.php:50
+#: ../page-builders/elementor/widgets/single-page/post-date.php:50
+#: ../page-builders/elementor/widgets/single-page/social-links.php:51
+#: ../page-builders/elementor/widgets/single-page/taxonomy.php:60
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:32
+#: ../page-builders/visual-composer/modules/default/listings-taxonomy.php:39
+#: ../page-builders/visual-composer/modules/single-page/featured-item.php:33
+#: ../page-builders/visual-composer/modules/single-page/features.php:33
+#: ../page-builders/visual-composer/modules/single-page/mls-number.php:33
+#: ../page-builders/visual-composer/modules/single-page/navigation.php:33
+#: ../page-builders/visual-composer/modules/single-page/post-date.php:32
+#: ../page-builders/visual-composer/modules/single-page/social-links.php:34
+#: ../page-builders/visual-composer/modules/single-page/taxonomy.php:48
+#: ../settings/settings-archives-utils.php:22
+msgid "Type 3"
+msgstr ""
+
+#: ../modules/business-hours/page-builders/elementor/sp-opening-hours-status.php:51
+#: ../modules/business-hours/page-builders/visual-composer/sp-opening-hours-status.php:34
+#: ../modules/media-attachments/page-builders/elementor/sp-media-attachments.php:51
+#: ../modules/media-attachments/page-builders/visual-composer/sp-media-attachments.php:34
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:48
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:28
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:50
+#: ../page-builders/elementor/widgets/default/class-listings-taxonomy.php:56
+#: ../page-builders/elementor/widgets/single-page/features.php:51
+#: ../page-builders/elementor/widgets/single-page/post-date.php:51
+#: ../page-builders/elementor/widgets/single-page/social-links.php:52
+#: ../page-builders/elementor/widgets/single-page/taxonomy.php:61
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:33
+#: ../page-builders/visual-composer/modules/default/listings-taxonomy.php:40
+#: ../page-builders/visual-composer/modules/single-page/features.php:34
+#: ../page-builders/visual-composer/modules/single-page/post-date.php:33
+#: ../page-builders/visual-composer/modules/single-page/social-links.php:35
+#: ../page-builders/visual-composer/modules/single-page/taxonomy.php:49
+#: ../settings/settings-archives-utils.php:23
+msgid "Type 4"
+msgstr ""
+
+#: ../modules/business-hours/page-builders/elementor/sp-opening-hours-status.php:52
+#: ../modules/business-hours/page-builders/visual-composer/sp-opening-hours-status.php:35
+#: ../modules/media-attachments/page-builders/elementor/sp-media-attachments.php:52
+#: ../modules/media-attachments/page-builders/visual-composer/sp-media-attachments.php:35
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:49
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:29
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:51
+#: ../page-builders/elementor/widgets/default/class-listings-taxonomy.php:57
+#: ../page-builders/elementor/widgets/single-page/features.php:52
+#: ../page-builders/elementor/widgets/single-page/social-links.php:53
+#: ../page-builders/elementor/widgets/single-page/taxonomy.php:62
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:34
+#: ../page-builders/visual-composer/modules/default/listings-taxonomy.php:41
+#: ../page-builders/visual-composer/modules/single-page/features.php:35
+#: ../page-builders/visual-composer/modules/single-page/social-links.php:36
+#: ../page-builders/visual-composer/modules/single-page/taxonomy.php:50
+#: ../settings/settings-archives-utils.php:24
+msgid "Type 5"
+msgstr ""
+
+#: ../modules/business-hours/page-builders/elementor/sp-opening-hours-status.php:54
+#: ../modules/business-hours/page-builders/visual-composer/sp-opening-hours-status.php:37
+#: ../modules/media-attachments/page-builders/elementor/sp-media-attachments.php:54
+#: ../modules/media-attachments/page-builders/visual-composer/sp-media-attachments.php:37
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:52
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:32
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:54
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:37
+msgid "Choose type of layout you like to display."
+msgstr ""
+
+#: ../modules/business-hours/page-builders/elementor/sp-opening-hours.php:18
+#: ../modules/business-hours/page-builders/visual-composer/sp-opening-hours.php:9
+msgid "Opening Hours"
+msgstr ""
+
+#: ../modules/business-hours/page-builders/elementor/sp-opening-hours.php:45
+#: ../modules/business-hours/page-builders/visual-composer/sp-opening-hours.php:28
+msgid "Show Current Time"
+msgstr ""
+
+#: ../modules/business-hours/page-builders/elementor/sp-opening-hours.php:51
+#: ../modules/business-hours/page-builders/visual-composer/sp-opening-hours.php:29
+msgid "Choose \"True\" if you like to show current time."
+msgstr ""
+
+#: ../modules/business-hours/page-builders/visual-composer/sp-opening-hours-status.php:20
+#: ../modules/business-hours/page-builders/visual-composer/sp-opening-hours.php:20
+#: ../modules/media-attachments/page-builders/visual-composer/sp-media-attachments.php:20
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:20
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:20
+#: ../page-builders/visual-composer/modules/single-page/featured-image.php:20
+#, php-format
+msgid ""
+"Provide %1$s id for which you have to display featured image. No need to "
+"provide ID if it is used in %1$s single page."
+msgstr ""
+
+#: ../modules/business-hours/register-module.php:49
+msgid "Business Hours"
+msgstr ""
+
+#: ../modules/business-hours/shortcodes.php:29
+#: ../modules/business-hours/utils.php:17
+msgid "Sunday"
+msgstr ""
+
+#: ../modules/business-hours/shortcodes.php:30
+#: ../modules/business-hours/utils.php:18
+msgid "Monday"
+msgstr ""
+
+#: ../modules/business-hours/shortcodes.php:31
+#: ../modules/business-hours/utils.php:19
+msgid "Tuesday"
+msgstr ""
+
+#: ../modules/business-hours/shortcodes.php:32
+#: ../modules/business-hours/utils.php:20
+msgid "Wednesday"
+msgstr ""
+
+#: ../modules/business-hours/shortcodes.php:33
+#: ../modules/business-hours/utils.php:21
+msgid "Thursday"
+msgstr ""
+
+#: ../modules/business-hours/shortcodes.php:34
+#: ../modules/business-hours/utils.php:22
+msgid "Friday"
+msgstr ""
+
+#: ../modules/business-hours/shortcodes.php:35
+#: ../modules/business-hours/utils.php:23
+msgid "Saturday"
+msgstr ""
+
+#: ../modules/business-hours/shortcodes.php:49
+#: ../modules/business-hours/utils.php:27
+#: ../modules/business-hours/utils.php:85
+#: ../modules/business-hours/utils.php:100
+msgid "OFF"
+msgstr ""
+
+#: ../modules/business-hours/shortcodes.php:76
+#: ../modules/business-hours/shortcodes.php:163
+msgid "Open"
+msgstr ""
+
+#: ../modules/business-hours/shortcodes.php:78
+#: ../modules/business-hours/shortcodes.php:165
+msgid "Closed"
+msgstr ""
+
+#: ../modules/business-hours/shortcodes.php:100
+msgid "local time"
+msgstr ""
+
+#: ../modules/business-hours/shortcodes.php:109
+#: ../modules/business-hours/shortcodes.php:178
+#: ../modules/comments/shortcodes.php:106
+#: ../modules/media-images/shortcodes.php:171
+#: ../modules/media-images/shortcodes.php:299
+#: ../modules/pricing/shortcodes.php:55 ../modules/pricing/shortcodes.php:134
+#: ../modules/social-share/shortcodes.php:87
+#: ../shortcodes/shortcodes-singlepage.php:93
+#: ../shortcodes/shortcodes-singlepage.php:130
+#: ../shortcodes/shortcodes-singlepage.php:289
+#: ../shortcodes/shortcodes-singlepage.php:444
+#: ../shortcodes/shortcodes-singlepage.php:497
+#: ../shortcodes/shortcodes-singlepage.php:693
+#: ../shortcodes/shortcodes-singlepage.php:855
+#: ../shortcodes/shortcodes-singlepage.php:949
+#: ../shortcodes/shortcodes-singlepage.php:1030
+#: ../shortcodes/shortcodes-singlepage.php:1074
+#: ../shortcodes/shortcodes-singlepage.php:1184
+#, php-format
+msgid "Please provide %1$s id to display corresponding data!"
+msgstr ""
+
+#: ../modules/business-hours/utils.php:28
+msgid "midnight"
+msgstr ""
+
+#: ../modules/business-hours/utils.php:52
+msgid "noon"
+msgstr ""
+
+#: ../modules/business-hours/utils.php:127
+#: ../modules/business-hours/utils.php:140
+msgid "24 Hour Format"
+msgstr ""
+
+#: ../modules/comments/comments.php:10 ../utils/comments.php:10
+msgid "No Comments"
+msgstr ""
+
+#: ../modules/comments/comments.php:10 ../utils/comments.php:10
+msgid "Comments ( 1 )"
+msgstr ""
+
+#: ../modules/comments/comments.php:10
+msgid "Comments  ( % )"
+msgstr ""
+
+#: ../modules/comments/comments.php:23 ../utils/comments.php:23
+msgid "Comments are closed."
+msgstr ""
+
+#: ../modules/comments/page-builders/elementor/sp-average-rating.php:18
+#: ../modules/comments/page-builders/visual-composer/sp-average-rating.php:9
+msgid "Average Rating"
+msgstr ""
+
+#: ../modules/comments/page-builders/elementor/sp-average-rating.php:45
+#: ../modules/comments/page-builders/visual-composer/sp-average-rating.php:28
+msgid "Display"
+msgstr ""
+
+#: ../modules/comments/page-builders/elementor/sp-average-rating.php:48
+#: ../modules/comments/page-builders/visual-composer/sp-average-rating.php:31
+msgid "Both"
+msgstr ""
+
+#: ../modules/comments/page-builders/elementor/sp-average-rating.php:49
+#: ../modules/comments/page-builders/visual-composer/sp-average-rating.php:32
+msgid "Star Rating"
+msgstr ""
+
+#: ../modules/comments/page-builders/elementor/sp-average-rating.php:50
+#: ../modules/comments/page-builders/visual-composer/sp-average-rating.php:33
+msgid "Overall Rating"
+msgstr ""
+
+#: ../modules/comments/page-builders/elementor/sp-average-rating.php:52
+#: ../modules/comments/page-builders/visual-composer/sp-average-rating.php:35
+msgid "Choose type of content to display."
+msgstr ""
+
+#: ../modules/comments/page-builders/elementor/sp-average-rating.php:64
+#: ../modules/comments/page-builders/visual-composer/sp-average-rating.php:51
+#: ../modules/pricing/page-builders/elementor/sp-price.php:52
+#: ../modules/pricing/page-builders/visual-composer/sp-price.php:35
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:51
+#: ../page-builders/elementor/widgets/single-page/featured-item.php:52
+#: ../page-builders/elementor/widgets/single-page/features.php:56
+#: ../page-builders/elementor/widgets/single-page/mls-number.php:52
+#: ../page-builders/elementor/widgets/single-page/post-date.php:53
+#: ../page-builders/elementor/widgets/single-page/social-links.php:58
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:34
+#: ../page-builders/visual-composer/modules/single-page/featured-item.php:35
+#: ../page-builders/visual-composer/modules/single-page/features.php:39
+#: ../page-builders/visual-composer/modules/single-page/mls-number.php:35
+#: ../page-builders/visual-composer/modules/single-page/post-date.php:35
+#: ../page-builders/visual-composer/modules/single-page/social-links.php:41
+msgid "Choose any of the available type."
+msgstr ""
+
+#: ../modules/comments/page-builders/elementor/sp-featured-comments.php:18
+#: ../modules/comments/page-builders/visual-composer/sp-featured-comments.php:7
+msgid "Comments - Featured"
+msgstr ""
+
+#: ../modules/comments/page-builders/elementor/sp-featured-comments.php:36
+#: ../modules/comments/page-builders/visual-composer/sp-featured-comments.php:16
+msgid "Enable Title"
+msgstr ""
+
+#: ../modules/comments/page-builders/elementor/sp-featured-comments.php:46
+#: ../modules/comments/page-builders/visual-composer/sp-featured-comments.php:29
+msgid "Enable Rating"
+msgstr ""
+
+#: ../modules/comments/page-builders/elementor/sp-featured-comments.php:56
+#: ../modules/comments/page-builders/visual-composer/sp-featured-comments.php:42
+msgid "Enable Media"
+msgstr ""
+
+#: ../modules/comments/page-builders/visual-composer/sp-average-rating.php:20
+#: ../modules/pricing/page-builders/visual-composer/sp-add-to-cart.php:20
+#: ../modules/pricing/page-builders/visual-composer/sp-price.php:20
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:20
+#: ../page-builders/visual-composer/modules/single-page/utils.php:21
+#, php-format
+msgid ""
+"Provide %1$s id for which you have to display favourites, share,... No need "
+"to provide ID if it is used in %1$s single page."
+msgstr ""
+
+#: ../modules/comments/settings.php:14
+msgid "Comment Requires Active Package"
+msgstr ""
+
+#: ../modules/comments/settings.php:26 ../modules/pricing/settings.php:46
+#: ../settings/settings-archives-utils.php:203
+#: ../settings/settings-general-utils.php:86
+#: ../settings/settings-label-utils.php:57
+#: ../settings/settings-permalink-utils.php:49
+#: ../settings/settings-skin-utils.php:62
+msgid "Save Settings"
+msgstr ""
+
+#: ../modules/comments/shortcodes.php:81
+#, php-format
+msgid "%1$s reviews"
+msgstr ""
+
+#: ../modules/comments/utils.php:24
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../modules/comments/utils.php:26
+msgid ""
+"Your comment is awaiting moderation. This is a preview, your comment will be "
+"visible after it has been approved."
+msgstr ""
+
+#: ../modules/comments/utils.php:64
+msgid "Comment Media"
+msgstr ""
+
+#: ../modules/comments/utils.php:89
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../modules/comments/utils.php:98
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../modules/comments/utils.php:102
+msgid "Edit"
+msgstr ""
+
+#: ../modules/comments/utils.php:150 ../modules/comments/utils.php:192
+msgid "Rating"
+msgstr ""
+
+#: ../modules/comments/utils.php:160 ../modules/comments/utils.php:202
+msgid "Attach File"
+msgstr ""
+
+#: ../modules/comments/utils.php:222
+msgid "Comment *"
+msgstr ""
+
+#: ../modules/comments/utils.php:226
+msgid "Name *"
+msgstr ""
+
+#: ../modules/comments/utils.php:230
+msgid "Email *"
+msgstr ""
+
+#: ../modules/comments/utils.php:393
+msgid "Comment Options"
+msgstr ""
+
+#: ../modules/comments/utils.php:421
+msgid "Ratings"
+msgstr ""
+
+#: ../modules/comments/utils.php:432
+msgid "Media"
+msgstr ""
+
+#: ../modules/comments/utils.php:613 ../modules/media-images/utils.php:37
+msgid "Media Title"
+msgstr ""
+
+#: ../modules/comments/utils.php:625 ../modules/media-images/utils.php:54
+msgid "Upload Media"
+msgstr ""
+
+#: ../modules/comments/utils.php:626 ../modules/media-images/utils.php:55
+msgid "Remove Media"
+msgstr ""
+
+#: ../modules/media-attachments/metabox-tab-listing.php:3
+msgid "Add Attachments"
+msgstr ""
+
+#: ../modules/media-attachments/metabox-tab-listing.php:7
+#, php-format
+msgid "Add attachments for your %1$s here."
+msgstr ""
+
+#: ../modules/media-attachments/page-builders/elementor/sp-media-attachments.php:18
+#: ../modules/media-attachments/page-builders/visual-composer/sp-media-attachments.php:9
+#: ../modules/media-attachments/register-module.php:49
+msgid "Media - Attachments"
+msgstr ""
+
+#: ../modules/media-attachments/utils.php:30
+#: ../modules/media-attachments/utils.php:31
+#: ../modules/media-attachments/utils.php:53
+#: ../modules/media-attachments/utils.php:54
+msgid "Item"
+msgstr ""
+
+#: ../modules/media-attachments/utils.php:32
+#: ../modules/media-attachments/utils.php:55 ../utils/utils-fields.php:50
+#: ../utils/utils-fields.php:89
+msgid "Upload"
+msgstr ""
+
+#: ../modules/media-attachments/utils.php:33
+#: ../modules/media-attachments/utils.php:56 ../utils/utils-fields.php:51
+#: ../utils/utils-fields.php:90
+msgid "Remove"
+msgstr ""
+
+#: ../modules/media-attachments/utils.php:46
+msgid "Add Attachment"
+msgstr ""
+
+#: ../modules/media-images/metabox-tab-listing.php:3
+msgid "Add Images"
+msgstr ""
+
+#: ../modules/media-images/metabox-tab-listing.php:7
+#, php-format
+msgid "Add images for your %1$s here."
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:18
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:9
+msgid "Media - Images List"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:45
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:28
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:76
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:63
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:66
+#: ../page-builders/elementor/widgets/default/class-listings-taxonomy.php:79
+#: ../page-builders/elementor/widgets/single-page/features.php:68
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:54
+#: ../page-builders/visual-composer/modules/default/listings-taxonomy.php:71
+#: ../page-builders/visual-composer/modules/single-page/features.php:57
+#: ../settings/settings-archives-utils.php:74
+msgid "Columns"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:48
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:31
+msgid "One Column"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:49
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:32
+msgid "Two Column"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:50
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:33
+msgid "Three Column"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:51
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:34
+msgid "Four Column"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:52
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:35
+msgid "Five Column"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:53
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:36
+msgid "Six Column"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:55
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:38
+msgid "Choose any of the available column sizes."
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:60
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:45
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:47
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:28
+#: ../page-builders/elementor/widgets/single-page/featured-image.php:45
+#: ../page-builders/visual-composer/modules/single-page/featured-image.php:28
+msgid "Thumbnail Sizes"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:63
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:48
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:167
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:50
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:219
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:31
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:178
+#: ../page-builders/elementor/widgets/single-page/featured-image.php:48
+#: ../page-builders/visual-composer/modules/single-page/featured-image.php:31
+msgid "Thumbnail"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:64
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:49
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:51
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:32
+#: ../page-builders/elementor/widgets/single-page/featured-image.php:49
+#: ../page-builders/visual-composer/modules/single-page/featured-image.php:32
+msgid "Medium"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:65
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:50
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:52
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:33
+#: ../page-builders/elementor/widgets/single-page/featured-image.php:50
+#: ../page-builders/visual-composer/modules/single-page/featured-image.php:33
+msgid "Medium Large"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:66
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:51
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:53
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:34
+#: ../page-builders/elementor/widgets/single-page/featured-image.php:51
+#: ../page-builders/visual-composer/modules/single-page/featured-image.php:34
+msgid "Large"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:67
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:52
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:54
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:35
+#: ../page-builders/elementor/widgets/single-page/featured-image.php:52
+#: ../page-builders/visual-composer/modules/single-page/featured-image.php:35
+msgid "Full"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:69
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:54
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:56
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:37
+#: ../page-builders/elementor/widgets/single-page/featured-image.php:54
+#: ../page-builders/visual-composer/modules/single-page/featured-image.php:37
+msgid "Choose any of the above image sizes."
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:74
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:59
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:78
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:46
+msgid "Show Image Description"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:80
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:65
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:66
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:79
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:47
+msgid "Choose \"True\" if you like to show image description in carousel."
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:85
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:65
+msgid "With Space"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:91
+msgid "Choose \"True\" if you like to have space between images."
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:96
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:70
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:91
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:59
+msgid "Include Feature Image"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:102
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:76
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:92
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:60
+msgid "Choose \"True\" if you like to include featured image in this gallery."
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:107
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:104
+msgid "Image Ids"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images-list.php:109
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:106
+msgid ""
+"If you wish to display particular images only than give image positions ids "
+"separated by commas."
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:18
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:9
+#: ../modules/media-images/register-module.php:49
+msgid "Media - Images"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:91
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:313
+msgid "Carousel Options"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:95
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:124
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:83
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:329
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:393
+msgid "Effect"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:98
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:127
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:86
+#: ../modules/pricing/metabox-tab-price.php:17
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:332
+#: ../page-builders/elementor/widgets/single-page/social-links.php:48
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:396
+#: ../page-builders/visual-composer/modules/single-page/social-links.php:31
+msgid "Default"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:99
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:128
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:87
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:333
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:397
+msgid "Fade"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:101
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:130
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:89
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:335
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:399
+msgid ""
+"Choose effect for your carousel. Slides Per View has to be 1 for Fade effect."
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:106
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:139
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:98
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:341
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:409
+msgid "Auto Play"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:108
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:141
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:100
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:343
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:411
+msgid ""
+"Delay between transitions ( in ms ). Leave empty if you don't want to auto "
+"play."
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:113
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:149
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:108
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:349
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:420
+msgid "Slides Per View"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:121
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:157
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:116
+msgid "Number slides of to show in view port."
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:126
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:166
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:125
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:363
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:438
+msgid "Enable Loop Mode"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:132
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:172
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:131
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:369
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:444
+msgid "If you wish you can enable continous loop mode for your carousel."
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:137
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:181
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:140
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:375
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:454
+msgid "Enable Mousewheel Control"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:143
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:187
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:146
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:381
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:460
+msgid "If you wish you can enable mouse wheel control for your carousel."
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:148
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:196
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:155
+msgid "Enable Vertical Direction"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:154
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:202
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:161
+msgid "To make your slides to navigate vertically."
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:159
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:211
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:170
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:214
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:236
+msgid "Pagination Type"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:162
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:214
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:173
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:110
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:105
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:94
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:137
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:217
+#: ../page-builders/elementor/widgets/default/class-listings-taxonomy.php:82
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:88
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:142
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:239
+#: ../page-builders/visual-composer/modules/default/listings-taxonomy.php:74
+#: ../settings/settings-archives-utils.php:133
+msgid "None"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:163
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:215
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:174
+msgid "Bullets"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:164
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:216
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:175
+msgid "Fraction"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:165
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:217
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:176
+msgid "Progress Bar"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:166
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:218
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:177
+msgid "Scroll Bar"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:169
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:221
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:180
+msgid "Choose pagination type you like to use."
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:174
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:230
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:189
+msgid "Number of Thumbnails"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:182
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:238
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:197
+msgid "Number of thumbnails to show."
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:188
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:248
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:207
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:399
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:486
+msgid "Enable Arrow Pagination"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:194
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:254
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:213
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:405
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:492
+msgid "To enable arrow pagination."
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:199
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:263
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:222
+msgid "Arrow Type"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:206
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:269
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:229
+msgid "Choose arrow pagination type for your carousel."
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:211
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:278
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:238
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:411
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:502
+msgid "Space Between Sliders"
+msgstr ""
+
+#: ../modules/media-images/page-builders/elementor/sp-media-images.php:213
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images-list.php:280
+#: ../modules/media-images/page-builders/visual-composer/sp-media-images.php:240
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:413
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:504
+msgid "Space between sliders can be given here."
+msgstr ""
+
+#: ../modules/media-images/shortcodes.php:74
+#: ../modules/media-images/shortcodes.php:247
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:60
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:42
+#: ../page-builders/elementor/widgets/single-page/featured-image.php:18
+#: ../page-builders/visual-composer/modules/single-page/featured-image.php:9
+#: ../settings/settings-archives-utils.php:52
+#: ../shortcodes/shortcodes-singlepage.php:82
+msgid "Featured Image"
+msgstr ""
+
+#: ../modules/media-images/shortcodes.php:87
+#: ../modules/media-images/shortcodes.php:262
+#: ../modules/media-images/shortcodes.php:279
+msgid "Gallery Image"
+msgstr ""
+
+#: ../modules/media-images/shortcodes.php:121
+#: ../shortcodes/shortcodes-default.php:222 ../utils/utils-listings.php:918
+#: ../utils/utils.php:242
+msgid "Prev"
+msgstr ""
+
+#: ../modules/media-images/shortcodes.php:122
+#: ../shortcodes/shortcodes-default.php:223 ../utils/utils-listings.php:933
+#: ../utils/utils.php:257
+msgid "Next"
+msgstr ""
+
+#: ../modules/media-images/shortcodes.php:142
+#: ../modules/media-images/shortcodes.php:154
+msgid "Gallery Thumb"
+msgstr ""
+
+#: ../modules/pricing/metabox-tab-price.php:6
+msgid "Currency Symbol"
+msgstr ""
+
+#: ../modules/pricing/metabox-tab-price.php:9
+msgid "Add currency symbol here."
+msgstr ""
+
+#: ../modules/pricing/metabox-tab-price.php:13
+msgid "Currency Symbol - Position"
+msgstr ""
+
+#: ../modules/pricing/metabox-tab-price.php:17
+#: ../modules/pricing/settings.php:29
+msgid "Left"
+msgstr ""
+
+#: ../modules/pricing/metabox-tab-price.php:17
+#: ../modules/pricing/settings.php:29
+msgid "Right"
+msgstr ""
+
+#: ../modules/pricing/metabox-tab-price.php:17
+#: ../modules/pricing/settings.php:29
+msgid "Left With Space"
+msgstr ""
+
+#: ../modules/pricing/metabox-tab-price.php:17
+#: ../modules/pricing/settings.php:29
+msgid "Right With Space"
+msgstr ""
+
+#: ../modules/pricing/metabox-tab-price.php:28
+msgid "Add currency symbol position here."
+msgstr ""
+
+#: ../modules/pricing/metabox-tab-price.php:32
+msgid "Regular Price"
+msgstr ""
+
+#: ../modules/pricing/metabox-tab-price.php:35
+#, php-format
+msgid "Add regular price for your %1$s here. Avoid comma while adding price."
+msgstr ""
+
+#: ../modules/pricing/metabox-tab-price.php:39
+msgid "Sale Price"
+msgstr ""
+
+#: ../modules/pricing/metabox-tab-price.php:42
+#, php-format
+msgid "Add sale price for your %1$s here. Avoid comma while adding price."
+msgstr ""
+
+#: ../modules/pricing/metabox-tab-price.php:46
+msgid "Before Price Label"
+msgstr ""
+
+#: ../modules/pricing/metabox-tab-price.php:49
+msgid "If needed you can add before price label here."
+msgstr ""
+
+#: ../modules/pricing/metabox-tab-price.php:53
+msgid "After Price Label"
+msgstr ""
+
+#: ../modules/pricing/metabox-tab-price.php:56
+msgid "If needed you can add after price label here."
+msgstr ""
+
+#: ../modules/pricing/page-builders/elementor/sf-price-range.php:18
+#: ../modules/pricing/page-builders/visual-composer/sf-price-range.php:9
+msgid "Price Range"
+msgstr ""
+
+#: ../modules/pricing/page-builders/elementor/sf-price-range.php:36
+#: ../modules/pricing/page-builders/visual-composer/sf-price-range.php:18
+msgid "Minimum Price"
+msgstr ""
+
+#: ../modules/pricing/page-builders/elementor/sf-price-range.php:38
+#: ../modules/pricing/page-builders/visual-composer/sf-price-range.php:20
+msgid "Set minimum price range."
+msgstr ""
+
+#: ../modules/pricing/page-builders/elementor/sf-price-range.php:43
+#: ../modules/pricing/page-builders/visual-composer/sf-price-range.php:28
+msgid "Maximum Price"
+msgstr ""
+
+#: ../modules/pricing/page-builders/elementor/sf-price-range.php:45
+#: ../modules/pricing/page-builders/visual-composer/sf-price-range.php:30
+msgid "Set maximum price range."
+msgstr ""
+
+#: ../modules/pricing/page-builders/elementor/sp-add-to-cart.php:18
+#: ../modules/pricing/page-builders/visual-composer/sp-add-to-cart.php:9
+msgid "Add To Cart"
+msgstr ""
+
+#: ../modules/pricing/page-builders/elementor/sp-price.php:18
+#: ../modules/pricing/page-builders/visual-composer/sp-price.php:9
+#: ../modules/pricing/register-module.php:60
+#: ../modules/pricing/register-module.php:72
+msgid "Price"
+msgstr ""
+
+#: ../modules/pricing/settings.php:13
+msgid "Default Currency Symbol"
+msgstr ""
+
+#: ../modules/pricing/settings.php:18
+msgid ""
+"Add currency symbol here. This option will be used for search form - price "
+"range shorcode and single page - price shortcode."
+msgstr ""
+
+#: ../modules/pricing/settings.php:24
+msgid "Default Currency Symbol - Position"
+msgstr ""
+
+#: ../modules/pricing/settings.php:39
+msgid ""
+"Add currency symbol position here. This option will be used for search form "
+"- price range shorcode and single page - price shortcode."
+msgstr ""
+
+#: ../modules/pricing/shortcodes.php:105 ../script-and-styles.php:214
+msgid "Purchased"
+msgstr ""
+
+#: ../modules/pricing/shortcodes.php:111
+msgid "View Cart"
+msgstr ""
+
+#: ../modules/pricing/shortcodes.php:117
+msgid "Add to Cart"
+msgstr ""
+
+#: ../modules/pricing/shortcodes.php:127
+msgid "Please make sure \"WooCommerce\" plugin is installed and activated!"
+msgstr ""
+
+#: ../modules/pricing/shortcodes.php:215 ../modules/search/shortcodes.php:394
+msgid "Min"
+msgstr ""
+
+#: ../modules/pricing/shortcodes.php:219 ../modules/search/shortcodes.php:398
+msgid "Max"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-categories.php:18
+#: ../modules/search/page-builders/visual-composer/sf-categories.php:9
+#: ../modules/search/shortcodes.php:118
+msgid "Categories"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-categories.php:36
+#: ../modules/search/page-builders/elementor/sf-features.php:43
+#: ../modules/search/page-builders/elementor/sf-order-by.php:36
+#: ../modules/search/page-builders/elementor/sf-tags.php:36
+#: ../modules/search/page-builders/visual-composer/sf-categories.php:18
+#: ../modules/search/page-builders/visual-composer/sf-features.php:27
+#: ../modules/search/page-builders/visual-composer/sf-order-by.php:18
+#: ../modules/search/page-builders/visual-composer/sf-tags.php:18
+msgid "Field Type"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-categories.php:39
+#: ../modules/search/page-builders/elementor/sf-features.php:47
+#: ../modules/search/page-builders/elementor/sf-order-by.php:39
+#: ../modules/search/page-builders/elementor/sf-tags.php:39
+#: ../modules/search/page-builders/visual-composer/sf-categories.php:21
+#: ../modules/search/page-builders/visual-composer/sf-features.php:33
+#: ../modules/search/page-builders/visual-composer/sf-order-by.php:21
+#: ../modules/search/page-builders/visual-composer/sf-tags.php:21
+msgid "List"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-categories.php:40
+#: ../modules/search/page-builders/elementor/sf-features.php:48
+#: ../modules/search/page-builders/elementor/sf-order-by.php:40
+#: ../modules/search/page-builders/elementor/sf-tags.php:40
+#: ../modules/search/page-builders/visual-composer/sf-categories.php:22
+#: ../modules/search/page-builders/visual-composer/sf-features.php:32
+#: ../modules/search/page-builders/visual-composer/sf-order-by.php:22
+#: ../modules/search/page-builders/visual-composer/sf-tags.php:22
+msgid "Dropdown"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-categories.php:42
+#: ../modules/search/page-builders/elementor/sf-order-by.php:42
+#: ../modules/search/page-builders/elementor/sf-tags.php:42
+#: ../modules/search/page-builders/visual-composer/sf-categories.php:24
+#: ../modules/search/page-builders/visual-composer/sf-order-by.php:24
+#: ../modules/search/page-builders/visual-composer/sf-tags.php:24
+msgid "Choose type of field you like to use."
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-categories.php:47
+#: ../modules/search/page-builders/elementor/sf-features.php:55
+#: ../modules/search/page-builders/elementor/sf-keyword.php:36
+#: ../modules/search/page-builders/elementor/sf-mls-number.php:36
+#: ../modules/search/page-builders/elementor/sf-order-by.php:47
+#: ../modules/search/page-builders/elementor/sf-tags.php:47
+#: ../modules/search/page-builders/visual-composer/sf-categories.php:33
+#: ../modules/search/page-builders/visual-composer/sf-features.php:42
+#: ../modules/search/page-builders/visual-composer/sf-keyword.php:16
+#: ../modules/search/page-builders/visual-composer/sf-mls-number.php:18
+#: ../modules/search/page-builders/visual-composer/sf-order-by.php:33
+#: ../modules/search/page-builders/visual-composer/sf-tags.php:33
+msgid "Placeholder Text"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-categories.php:49
+#: ../modules/search/page-builders/elementor/sf-features.php:57
+#: ../modules/search/page-builders/elementor/sf-keyword.php:38
+#: ../modules/search/page-builders/elementor/sf-mls-number.php:38
+#: ../modules/search/page-builders/elementor/sf-order-by.php:49
+#: ../modules/search/page-builders/elementor/sf-tags.php:49
+#: ../modules/search/page-builders/visual-composer/sf-categories.php:35
+#: ../modules/search/page-builders/visual-composer/sf-features.php:44
+#: ../modules/search/page-builders/visual-composer/sf-keyword.php:18
+#: ../modules/search/page-builders/visual-composer/sf-mls-number.php:20
+#: ../modules/search/page-builders/visual-composer/sf-order-by.php:35
+#: ../modules/search/page-builders/visual-composer/sf-tags.php:35
+msgid "You can provide your own text for placeholder of this item."
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-categories.php:55
+#: ../modules/search/page-builders/elementor/sf-features.php:87
+#: ../modules/search/page-builders/elementor/sf-tags.php:55
+#: ../modules/search/page-builders/visual-composer/sf-categories.php:43
+#: ../modules/search/page-builders/visual-composer/sf-features.php:84
+#: ../modules/search/page-builders/visual-composer/sf-tags.php:43
+msgid "Dropdown Type"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-categories.php:58
+#: ../modules/search/page-builders/elementor/sf-features.php:90
+#: ../modules/search/page-builders/elementor/sf-tags.php:58
+#: ../modules/search/page-builders/visual-composer/sf-categories.php:46
+#: ../modules/search/page-builders/visual-composer/sf-features.php:87
+#: ../modules/search/page-builders/visual-composer/sf-tags.php:46
+msgid "Single"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-categories.php:59
+#: ../modules/search/page-builders/elementor/sf-features.php:91
+#: ../modules/search/page-builders/elementor/sf-tags.php:59
+#: ../modules/search/page-builders/visual-composer/sf-categories.php:47
+#: ../modules/search/page-builders/visual-composer/sf-features.php:88
+#: ../modules/search/page-builders/visual-composer/sf-tags.php:47
+msgid "Multiple"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-categories.php:61
+#: ../modules/search/page-builders/elementor/sf-features.php:93
+#: ../modules/search/page-builders/elementor/sf-tags.php:61
+#: ../modules/search/page-builders/visual-composer/sf-categories.php:49
+#: ../modules/search/page-builders/visual-composer/sf-features.php:91
+#: ../modules/search/page-builders/visual-composer/sf-tags.php:49
+msgid "Choose type of dropdown you like to use."
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-categories.php:78
+#: ../modules/search/page-builders/visual-composer/sf-categories.php:71
+msgid "Default Item Id"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-categories.php:80
+#: ../modules/search/page-builders/visual-composer/sf-categories.php:73
+msgid "Set item id here, by default it will be set."
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-categories.php:85
+#: ../modules/search/page-builders/visual-composer/sf-categories.php:80
+#: ../page-builders/elementor/widgets/default/class-listings-taxonomy.php:99
+#: ../page-builders/visual-composer/modules/default/listings-taxonomy.php:96
+msgid "Show Parent Items Alone"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-categories.php:91
+#: ../modules/search/page-builders/visual-composer/sf-categories.php:86
+#: ../page-builders/elementor/widgets/default/class-listings-taxonomy.php:105
+#: ../page-builders/visual-composer/modules/default/listings-taxonomy.php:102
+msgid "If you like to show parent items alone choose \"True\"."
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-categories.php:96
+#: ../modules/search/page-builders/visual-composer/sf-categories.php:94
+#: ../page-builders/elementor/widgets/default/class-listings-taxonomy.php:110
+#: ../page-builders/visual-composer/modules/default/listings-taxonomy.php:110
+msgid "Child Of"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-categories.php:98
+#: ../modules/search/page-builders/visual-composer/sf-categories.php:96
+#: ../page-builders/elementor/widgets/default/class-listings-taxonomy.php:112
+#: ../page-builders/visual-composer/modules/default/listings-taxonomy.php:112
+msgid ""
+"If you like to show child of any parent item, provide id of your taxonomy "
+"here."
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-features.php:36
+#: ../modules/search/page-builders/visual-composer/sf-features.php:18
+msgid "Tab Id"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-features.php:38
+#: ../modules/search/page-builders/visual-composer/sf-features.php:20
+msgid ""
+"Provide tab id for features item that you want to use in search form. "
+"Without this tab id shortcode doesn't work."
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-features.php:46
+#: ../modules/search/page-builders/visual-composer/sf-features.php:31
+msgid "Range"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-features.php:50
+#: ../modules/search/page-builders/visual-composer/sf-features.php:28
+msgid "Choose field type that you like to use for this feature item."
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-features.php:63
+#: ../modules/search/page-builders/visual-composer/sf-features.php:52
+msgid "Minimum Value"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-features.php:65
+#: ../modules/search/page-builders/visual-composer/sf-features.php:54
+msgid "Set minimum value range."
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-features.php:71
+#: ../modules/search/page-builders/visual-composer/sf-features.php:63
+msgid "Maximum Value"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-features.php:73
+#: ../modules/search/page-builders/visual-composer/sf-features.php:65
+msgid "Set maximum value range."
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-features.php:79
+#: ../modules/search/page-builders/visual-composer/sf-features.php:74
+msgid "Dropdown Options"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-features.php:81
+#: ../modules/search/page-builders/visual-composer/sf-features.php:75
+msgid "Add dropdown options in comma separated values."
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-features.php:99
+#: ../modules/search/page-builders/visual-composer/sf-features.php:99
+msgid "Item Unit"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-features.php:101
+#: ../modules/search/page-builders/visual-composer/sf-features.php:101
+msgid "You can provide item unit for your label here."
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-keyword.php:18
+#: ../modules/search/page-builders/visual-composer/sf-keyword.php:7
+#: ../modules/search/shortcodes.php:65
+msgid "Keyword"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-order-by.php:18
+#: ../modules/search/page-builders/visual-composer/sf-order-by.php:9
+#: ../modules/search/shortcodes.php:453
+msgid "Order By"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-order-by.php:55
+#: ../modules/search/page-builders/visual-composer/sf-order-by.php:43
+msgid "Alphabetical Order"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-order-by.php:61
+#: ../modules/search/page-builders/visual-composer/sf-order-by.php:44
+msgid "Choose \"True\" if you like to enable alphabetical order."
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-order-by.php:66
+#: ../modules/search/page-builders/visual-composer/sf-order-by.php:57
+msgid "Highest Rated Order"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-order-by.php:72
+#: ../modules/search/page-builders/visual-composer/sf-order-by.php:58
+msgid "Choose \"True\" if you like to enable highest rated order."
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-order-by.php:77
+#: ../modules/search/page-builders/visual-composer/sf-order-by.php:71
+msgid "Most Reviewed Order"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-order-by.php:83
+#: ../modules/search/page-builders/visual-composer/sf-order-by.php:72
+msgid "Choose \"True\" if you like to enable most reviewed order."
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-order-by.php:88
+#: ../modules/search/page-builders/visual-composer/sf-order-by.php:85
+msgid "Most Viewed Order"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-order-by.php:94
+#: ../modules/search/page-builders/visual-composer/sf-order-by.php:86
+msgid "Choose \"True\" if you like to enable most viewed order."
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:18
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:11
+msgid "Output Data Container"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:50
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:30
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:52
+#: ../page-builders/elementor/widgets/default/class-listings-taxonomy.php:58
+#: ../page-builders/elementor/widgets/single-page/features.php:53
+#: ../page-builders/elementor/widgets/single-page/social-links.php:54
+#: ../page-builders/elementor/widgets/single-page/taxonomy.php:63
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:35
+#: ../page-builders/visual-composer/modules/default/listings-taxonomy.php:42
+#: ../page-builders/visual-composer/modules/single-page/features.php:36
+#: ../page-builders/visual-composer/modules/single-page/social-links.php:37
+#: ../page-builders/visual-composer/modules/single-page/taxonomy.php:51
+#: ../settings/settings-archives-utils.php:25
+msgid "Type 6"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:57
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:39
+#: ../settings/settings-archives-utils.php:47
+msgid "Gallery"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:61
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:43
+msgid "Image Gallery"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:62
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:44
+msgid "Image Gallery With Featured Image"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:64
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:46
+msgid "Choose how you like to display image gallery."
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:69
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:54
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:59
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:45
+msgid "Post Per Page"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:71
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:56
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:61
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:47
+msgid ""
+"Number of posts to show per page. Rest of the posts will be displayed in "
+"pagination."
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:79
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:66
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:69
+#: ../page-builders/elementor/widgets/default/class-listings-taxonomy.php:83
+#: ../page-builders/elementor/widgets/single-page/features.php:72
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:57
+#: ../page-builders/visual-composer/modules/default/listings-taxonomy.php:75
+#: ../page-builders/visual-composer/modules/single-page/features.php:61
+#: ../settings/settings-archives-utils.php:80
+msgid "I Column"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:80
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:67
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:70
+#: ../page-builders/elementor/widgets/default/class-listings-taxonomy.php:84
+#: ../page-builders/elementor/widgets/single-page/features.php:73
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:58
+#: ../page-builders/visual-composer/modules/default/listings-taxonomy.php:76
+#: ../page-builders/visual-composer/modules/single-page/features.php:62
+#: ../settings/settings-archives-utils.php:81
+msgid "II Columns"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:81
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:68
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:71
+#: ../page-builders/elementor/widgets/default/class-listings-taxonomy.php:85
+#: ../page-builders/elementor/widgets/single-page/features.php:74
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:59
+#: ../page-builders/visual-composer/modules/default/listings-taxonomy.php:77
+#: ../page-builders/visual-composer/modules/single-page/features.php:63
+#: ../settings/settings-archives-utils.php:82
+msgid "III Columns"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:83
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:70
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:74
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:62
+msgid "Number of columns you like to display your items."
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:89
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:79
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:80
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:71
+#: ../settings/settings-archives-utils.php:104
+msgid "Apply Isotope"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:95
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:86
+msgid ""
+"Choose true if you like to apply isotope for your items.  Isotope won't work "
+"along with Carousel."
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:100
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:92
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:126
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:128
+#: ../settings/settings-archives-utils.php:117
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:102
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:94
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:128
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:130
+msgid "Provide excerpt length here."
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:107
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:102
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:134
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:139
+#: ../settings/settings-archives-utils.php:128
+msgid "Features Image or Icon"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:114
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:109
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:141
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:146
+msgid "Choose any of the option available to display features."
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:119
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:117
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:147
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:155
+#: ../settings/settings-archives-utils.php:157
+msgid "Features Include"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:121
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:119
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:149
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:157
+msgid ""
+"Give features id separated by comma. Only 4 maximum number of features "
+"allowed."
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:126
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:127
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:155
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:166
+#: ../settings/settings-archives-utils.php:168
+msgid "No. Of Categories to Display"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:134
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:135
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:164
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:175
+#: ../settings/settings-archives-utils.php:192
+msgid "Number of categories you like to display on your items."
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:139
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:143
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:169
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:183
+msgid "Apply Equal Height"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:146
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:149
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:176
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:189
+msgid "Apply equal height for you items."
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:151
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:158
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:181
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:198
+msgid "Apply Custom Height"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:157
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:164
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:187
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:204
+msgid "Apply custom height for your entire section."
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:162
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:172
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:192
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:212
+msgid "Height"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:164
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:174
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:194
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:214
+msgid "Provide height for your section in \"px\" here."
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:173
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:182
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:203
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:222
+msgid "Sidebar Widget"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:179
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:209
+#, php-format
+msgid ""
+"%1$s 1) If you wish to show these items in sidebar set this to \"True\". "
+"%2$s %1$s 2) This options is not applicable for \"Type 3\", \"Type 5\" and "
+"\"Type 7\". %2$s"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:195
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:237
+msgid "Filter Options"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:199
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:211
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:248
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:278
+#, php-format
+msgid "%1$s Category Ids"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-output-data-container.php:201
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:250
+#, php-format
+msgid "Enter %1$s category ids separated by commas."
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-submit-button.php:18
+#: ../modules/search/page-builders/visual-composer/sf-submit-button.php:9
+msgid "Submit Button"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-submit-button.php:36
+#: ../modules/search/page-builders/visual-composer/sf-submit-button.php:18
+msgid "Output Type"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-submit-button.php:39
+#: ../modules/search/page-builders/visual-composer/sf-submit-button.php:21
+msgid "Same Page - Ajax Load"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-submit-button.php:40
+#: ../modules/search/page-builders/visual-composer/sf-submit-button.php:22
+msgid "Separate Page"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-submit-button.php:42
+#: ../modules/search/page-builders/visual-composer/sf-submit-button.php:24
+msgid "Choose how you like to display search output."
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-submit-button.php:47
+#: ../modules/search/page-builders/visual-composer/sf-submit-button.php:33
+msgid "Separate Page URL"
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-submit-button.php:49
+#: ../modules/search/page-builders/visual-composer/sf-submit-button.php:35
+msgid ""
+"Separate page url in which search content have to displayed. You have to "
+"create that page with search form shortcode."
+msgstr ""
+
+#: ../modules/search/page-builders/elementor/sf-tags.php:18
+#: ../modules/search/page-builders/visual-composer/sf-tags.php:9
+#: ../utils/utils.php:19
+msgid "Tags"
+msgstr ""
+
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:85
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:78
+msgid "Choose true if you like to apply isotope for your items."
+msgstr ""
+
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:188
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:228
+msgid ""
+"If you wish to show these items in sidebar set this to \"True\". This "
+"options is not applicable for \"Type 3\", \"Type 5\" and \"Type 7\""
+msgstr ""
+
+#: ../modules/search/page-builders/visual-composer/sf-output-data-container.php:214
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:281
+msgid "Enter category ids separated by commas."
+msgstr ""
+
+#: ../modules/search/register-module.php:34
+#, php-format
+msgid "%1$s - Search Form"
+msgstr ""
+
+#: ../modules/search/shortcodes.php:411
+msgid ""
+"This features shortcode won't work without tab id. Please provide tab id."
+msgstr ""
+
+#: ../modules/search/shortcodes.php:460
+msgid "Alphabetical"
+msgstr ""
+
+#: ../modules/search/shortcodes.php:463
+msgid "Highest Rated"
+msgstr ""
+
+#: ../modules/search/shortcodes.php:466
+msgid "Most Reviewed"
+msgstr ""
+
+#: ../modules/search/shortcodes.php:469
+msgid "Most Viewed"
+msgstr ""
+
+#: ../modules/search/shortcodes.php:561
+#: ../shortcodes/shortcodes-singlepage.php:923
+msgid "Submit"
+msgstr ""
+
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:18
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:9
+msgid "Social Share"
+msgstr ""
+
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:51
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:34
+msgid "Choose type of social share like to display."
+msgstr ""
+
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:56
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:42
+msgid "Show Facebook"
+msgstr ""
+
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:62
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:43
+msgid "Choose \"True\" if you like to show facebook share."
+msgstr ""
+
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:67
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:55
+msgid "Show Delicious"
+msgstr ""
+
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:73
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:56
+msgid "Choose \"True\" if you like to show delicious share."
+msgstr ""
+
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:78
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:68
+msgid "Show Digg"
+msgstr ""
+
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:84
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:69
+msgid "Choose \"True\" if you like to show digg share."
+msgstr ""
+
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:89
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:81
+msgid "Show Stumble Upon"
+msgstr ""
+
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:95
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:82
+msgid "Choose \"True\" if you like to show stumble upon share."
+msgstr ""
+
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:100
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:94
+msgid "Show Twitter"
+msgstr ""
+
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:106
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:95
+msgid "Choose \"True\" if you like to show twitter share."
+msgstr ""
+
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:111
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:107
+msgid "Show Google Plus"
+msgstr ""
+
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:117
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:108
+msgid "Choose \"True\" if you like to show google plus share."
+msgstr ""
+
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:122
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:120
+msgid "Show LinkedIn"
+msgstr ""
+
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:128
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:121
+msgid "Choose \"True\" if you like to show linkedin share."
+msgstr ""
+
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:133
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:133
+msgid "Show Pinterest"
+msgstr ""
+
+#: ../modules/social-share/page-builders/elementor/sp-social-share.php:139
+#: ../modules/social-share/page-builders/visual-composer/sp-social-share.php:134
+msgid "Choose \"True\" if you like to show pinterest share."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:19
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:17
+#, php-format
+msgid "%1$s Listing"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:72
+#: ../page-builders/elementor/widgets/single-page/features.php:75
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:60
+#: ../page-builders/visual-composer/modules/single-page/features.php:64
+msgid "IV Columns"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:91
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:85
+msgid "Isotope Filter"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:98
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:92
+msgid "Choose isotope filter you like to use."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:103
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:100
+msgid "Apply Child Of"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:110
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:107
+msgid ""
+"If you wish to apply child of specified categories in filters, choose "
+"\"True\". If no categories specified in \"Filter Options\" this option won't "
+"work."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:115
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:115
+msgid "Featured Items"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:121
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:121
+msgid "Choose true if you like to display featured items."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:218
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:240
+msgid "Numbered"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:219
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:241
+#: ../utils/utils-listings.php:909
+msgid "Load More"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:220
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:242
+msgid "Infinity"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:241
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:266
+#, php-format
+msgid "%1$s Item Ids"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:243
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:269
+#, php-format
+msgid "Enter %1$s item ids separated by commas."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:257
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:293
+#, php-format
+msgid "Enter %1$s ids separated by commas"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:264
+msgid "Masonary Options"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:268
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:304
+msgid "One Column Items"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:270
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:277
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:284
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:291
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:298
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:305
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:307
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:319
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:331
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:343
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:355
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:367
+#, php-format
+msgid "Enter %1$s item positions separated by commas."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:275
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:316
+msgid "One Half Column Items"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:282
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:328
+msgid "One Third Column Items"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:289
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:340
+msgid "Two Third Column Items"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:296
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:352
+msgid "One Fourth Column Items"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:303
+msgid "Three Fourth Column Items"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:317
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:378
+msgid "Enable Carousel"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:323
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:384
+msgid ""
+"If you wish you can enable carousel for your item listings. Carousel won't "
+"work along with \"Isotope\" & \"Equal Height\" option."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:357
+#, php-format
+msgid ""
+"%1$s 1) Number slides of to show in view port. %2$s %1$s 2) 2,3,4 options "
+"not applicable for \"type 3\", \"type 5\", \"type 7\" and \"type9\". %2$s "
+"%1$s 3) If \"Sidebar Widget\" is set to \"True\", than \"Slides Per View\" "
+"will be set to \"1\". %2$s"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:387
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:470
+msgid "Enable Bullet Pagination"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-listing.php:393
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:476
+msgid "To enable bullet pagination."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-taxonomy.php:19
+#: ../page-builders/visual-composer/modules/default/listings-taxonomy.php:13
+#, php-format
+msgid "%1$s Taxonomy"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-taxonomy.php:42
+#: ../page-builders/elementor/widgets/single-page/taxonomy.php:18
+#: ../page-builders/elementor/widgets/single-page/taxonomy.php:47
+#: ../page-builders/visual-composer/modules/default/listings-taxonomy.php:22
+#: ../page-builders/visual-composer/modules/single-page/taxonomy.php:12
+#: ../page-builders/visual-composer/modules/single-page/taxonomy.php:31
+msgid "Taxonomy"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-taxonomy.php:45
+#: ../page-builders/elementor/widgets/single-page/taxonomy.php:50
+#: ../page-builders/visual-composer/modules/default/listings-taxonomy.php:25
+#: ../page-builders/visual-composer/modules/single-page/taxonomy.php:34
+msgid "Choose type of taxonomy you would like to display."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-taxonomy.php:59
+#: ../page-builders/elementor/widgets/single-page/features.php:54
+#: ../page-builders/elementor/widgets/single-page/social-links.php:55
+#: ../page-builders/elementor/widgets/single-page/taxonomy.php:64
+#: ../page-builders/visual-composer/modules/default/listings-taxonomy.php:43
+#: ../page-builders/visual-composer/modules/single-page/features.php:37
+#: ../page-builders/visual-composer/modules/single-page/social-links.php:38
+#: ../page-builders/visual-composer/modules/single-page/taxonomy.php:52
+msgid "Type 7"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-taxonomy.php:61
+#: ../page-builders/elementor/widgets/single-page/taxonomy.php:67
+#: ../page-builders/visual-composer/modules/default/listings-taxonomy.php:45
+#: ../page-builders/visual-composer/modules/single-page/taxonomy.php:55
+msgid "Choose type of taxonomy to display."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-taxonomy.php:66
+#: ../page-builders/visual-composer/modules/default/listings-taxonomy.php:54
+msgid "Media Type"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-taxonomy.php:73
+#: ../page-builders/visual-composer/modules/default/listings-taxonomy.php:61
+msgid "Choose whether to display image or icon."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-taxonomy.php:87
+#: ../page-builders/visual-composer/modules/default/listings-taxonomy.php:79
+msgid "Number of columns you like to display your taxonomies."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-taxonomy.php:92
+#: ../page-builders/elementor/widgets/single-page/features.php:61
+#: ../page-builders/visual-composer/modules/default/listings-taxonomy.php:87
+#: ../page-builders/visual-composer/modules/single-page/features.php:48
+msgid "Include"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/default/class-listings-taxonomy.php:94
+#: ../page-builders/visual-composer/modules/default/listings-taxonomy.php:89
+msgid "List of taxonomy ids separated by commas."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/comments.php:18
+#: ../page-builders/visual-composer/modules/single-page/comments.php:7
+msgid "Comments"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:18
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:56
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:9
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:43
+msgid "Contact Details"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:62
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:44
+msgid "Contact details that you like to display."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:67
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:57
+msgid "Include Address"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:73
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:58
+msgid "Choose \"True\" if you like to show address in this shortcode."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:78
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:70
+msgid "Include Email"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:84
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:71
+msgid "Choose \"True\" if you like to show email id in this shortcode."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:89
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:83
+msgid "Include Phone"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:95
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:84
+msgid "Choose \"True\" if you like to show phone in this shortcode."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:100
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:96
+msgid "Include Mobile"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:106
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:97
+msgid "Choose \"True\" if you like to show mobile in this shortcode."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:111
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:109
+msgid "Include Skype"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:117
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:110
+msgid "Choose \"True\" if you like to show skype in this shortcode."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:122
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:122
+msgid "Include Website"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/contact-details.php:128
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:123
+msgid "Choose \"True\" if you like to show website in this shortcode."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/contact-form.php:18
+#: ../page-builders/visual-composer/modules/single-page/contact-form.php:9
+msgid "Contact Form"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/contact-form.php:45
+#: ../page-builders/visual-composer/modules/single-page/contact-form.php:28
+msgid "Textarea Placeholder"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/contact-form.php:47
+#: ../page-builders/visual-composer/modules/single-page/contact-form.php:30
+#, php-format
+msgid ""
+"You can customize palceholder text here. Also you can use {{title}} "
+"shortcode replace it with %1$s title"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/contact-form.php:52
+#: ../page-builders/visual-composer/modules/single-page/contact-form.php:37
+msgid "Submit Button Label"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/contact-form.php:54
+#: ../page-builders/visual-composer/modules/single-page/contact-form.php:39
+msgid "You can customize submit button label here."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/contact-form.php:59
+#: ../page-builders/visual-composer/modules/single-page/contact-form.php:46
+msgid "Contact Point"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/contact-form.php:62
+#: ../page-builders/visual-composer/modules/single-page/contact-form.php:49
+#, php-format
+msgid "%1$s Email"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/contact-form.php:63
+#: ../page-builders/visual-composer/modules/single-page/contact-form.php:50
+msgid "Author Email"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/contact-form.php:65
+#: ../page-builders/visual-composer/modules/single-page/contact-form.php:52
+msgid "Choose design type for this item."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/contact-form.php:70
+#: ../page-builders/visual-composer/modules/single-page/contact-form.php:61
+msgid "Include Admin"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/contact-form.php:76
+#: ../page-builders/visual-composer/modules/single-page/contact-form.php:62
+msgid "Choose \"True\" if you like to send copy of mail to administrator."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/features.php:63
+#: ../page-builders/visual-composer/modules/single-page/features.php:50
+msgid ""
+"If you like, you can include only certain items. Leave empty if you like to "
+"display all."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/features.php:71
+#: ../page-builders/visual-composer/modules/single-page/features.php:60
+msgid "No Column"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/features.php:77
+#, php-format
+msgid "Number of columns you like to display your %1$s."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/navigation.php:18
+msgid "Navigation"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/navigation.php:40
+#, php-format
+msgid ""
+"Provide %1$s id to display your navigation. No need to provide ID if it is "
+"used in %1$s single page."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/navigation.php:52
+#: ../page-builders/visual-composer/modules/single-page/navigation.php:35
+msgid "Choose type of navigation to display."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/post-date.php:18
+#: ../page-builders/visual-composer/modules/single-page/post-date.php:9
+msgid "Post Date"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/post-date.php:58
+#: ../page-builders/visual-composer/modules/single-page/post-date.php:44
+msgid "Include Post Time"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/post-date.php:64
+#: ../page-builders/visual-composer/modules/single-page/post-date.php:45
+msgid "Choose \"True\" if you like to display post time along with date."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/post-date.php:69
+#: ../page-builders/visual-composer/modules/single-page/post-date.php:57
+msgid "With Label"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/post-date.php:75
+#: ../page-builders/visual-composer/modules/single-page/post-date.php:58
+msgid "Choose \"True\" if you like to display label along with date."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/post-date.php:80
+#: ../page-builders/visual-composer/modules/single-page/post-date.php:70
+msgid "With Icon"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/post-date.php:86
+#: ../page-builders/visual-composer/modules/single-page/post-date.php:71
+msgid "Choose \"True\" if you like to display icon along with date."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/social-links.php:18
+#: ../page-builders/visual-composer/modules/single-page/social-links.php:9
+msgid "Social Links"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/social-links.php:56
+#: ../page-builders/elementor/widgets/single-page/taxonomy.php:65
+#: ../page-builders/visual-composer/modules/single-page/social-links.php:39
+#: ../page-builders/visual-composer/modules/single-page/taxonomy.php:53
+msgid "Type 8"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/taxonomy.php:72
+#: ../page-builders/visual-composer/modules/single-page/taxonomy.php:64
+msgid "Show Label"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/taxonomy.php:78
+#: ../page-builders/visual-composer/modules/single-page/taxonomy.php:70
+msgid "Choose \"True\" if you like to show label."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/utils.php:18
+#: ../page-builders/visual-composer/modules/single-page/utils.php:10
+msgid "Utils"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/utils.php:46
+#: ../page-builders/visual-composer/modules/single-page/utils.php:28
+msgid "Show Title"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/utils.php:52
+#: ../page-builders/visual-composer/modules/single-page/utils.php:29
+msgid "Choose \"True\" if you like to show title."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/utils.php:57
+#: ../page-builders/visual-composer/modules/single-page/utils.php:41
+msgid "Show Favourite"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/utils.php:63
+#: ../page-builders/visual-composer/modules/single-page/utils.php:42
+msgid "Choose \"True\" if you like to show favourite option."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/utils.php:68
+#: ../page-builders/visual-composer/modules/single-page/utils.php:54
+msgid "Show Page View"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/utils.php:74
+#: ../page-builders/visual-composer/modules/single-page/utils.php:55
+msgid "Choose \"True\" if you like to show page view."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/utils.php:79
+#: ../page-builders/visual-composer/modules/single-page/utils.php:67
+msgid "Show Print"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/utils.php:85
+#: ../page-builders/visual-composer/modules/single-page/utils.php:68
+msgid "Choose \"True\" if you like to show print option."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/utils.php:90
+#: ../page-builders/visual-composer/modules/single-page/utils.php:80
+msgid "Show Social Share"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/utils.php:96
+#: ../page-builders/visual-composer/modules/single-page/utils.php:81
+msgid "Choose \"True\" if you like to show social share option."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/utils.php:101
+#: ../page-builders/visual-composer/modules/single-page/utils.php:93
+msgid "Show Average Rating"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/utils.php:107
+#: ../page-builders/visual-composer/modules/single-page/utils.php:94
+msgid "Choose \"True\" if you like to show average rating."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/utils.php:112
+#: ../page-builders/visual-composer/modules/single-page/utils.php:106
+msgid "Show Featured Item"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/utils.php:118
+#: ../page-builders/visual-composer/modules/single-page/utils.php:107
+msgid "Choose \"True\" if you like to show featured item."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/utils.php:123
+#: ../page-builders/visual-composer/modules/single-page/utils.php:119
+msgid "Show Categories"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/utils.php:129
+#: ../page-builders/visual-composer/modules/single-page/utils.php:120
+msgid "Choose \"True\" if you like to show categories."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/utils.php:134
+#: ../page-builders/visual-composer/modules/single-page/utils.php:132
+#, php-format
+msgid "Show %1$s"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/utils.php:140
+#: ../page-builders/visual-composer/modules/single-page/utils.php:133
+#, php-format
+msgid "Choose \"True\" if you like to show %1$s"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/utils.php:145
+#: ../page-builders/visual-composer/modules/single-page/utils.php:145
+msgid "Show Address"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/utils.php:151
+#: ../page-builders/visual-composer/modules/single-page/utils.php:146
+msgid "Choose \"True\" if you like to show address."
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/utils.php:156
+#: ../page-builders/visual-composer/modules/single-page/utils.php:158
+msgid "Show Excerpt"
+msgstr ""
+
+#: ../page-builders/elementor/widgets/single-page/utils.php:162
+#: ../page-builders/visual-composer/modules/single-page/utils.php:159
+msgid "Choose \"True\" if you like to show excerpt."
+msgstr ""
+
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:364
+msgid "Two Fourth Column Items"
+msgstr ""
+
+#: ../page-builders/visual-composer/modules/default/listings-listing.php:428
+msgid ""
+"Number slides of to show in view port. 2,3,4 options not applicable for "
+"\"type 3\", \"type 5\", \"type 7\" and \"type9\". If \"Sidebar Widget\" is "
+"set to \"True\", than \"Slides Per View\" will be set to \"1\"."
+msgstr ""
+
+#: ../page-builders/visual-composer/modules/single-page/contact-details.php:20
+#, php-format
+msgid ""
+"Provide %1$s id for which you have to display contact details. No need to "
+"provide ID if it is used in %1$s single page."
+msgstr ""
+
+#: ../page-builders/visual-composer/modules/single-page/contact-form.php:20
+#, php-format
+msgid ""
+"Provide %1$s id for which you have to contact form. No need to provide ID if "
+"it is used in %1$s single page."
+msgstr ""
+
+#: ../page-builders/visual-composer/modules/single-page/featured-item.php:20
+#, php-format
+msgid ""
+"Provide %1$s id for which you have to display fetured item label. No need to "
+"provide ID if it is used in %1$s single page."
+msgstr ""
+
+#: ../page-builders/visual-composer/modules/single-page/features.php:20
+#, php-format
+msgid ""
+"Provide %1$s id for which you have to display features. No need to provide "
+"ID if it is used in %1$s single page."
+msgstr ""
+
+#: ../page-builders/visual-composer/modules/single-page/features.php:66
+msgid "Number of columns you like to display your features."
+msgstr ""
+
+#: ../page-builders/visual-composer/modules/single-page/mls-number.php:20
+#, php-format
+msgid ""
+"Provide %1$s id for which you have to display MLS number. No need to provide "
+"ID if it is used in %1$s single page."
+msgstr ""
+
+#: ../page-builders/visual-composer/modules/single-page/navigation.php:20
+#, php-format
+msgid ""
+"Provide %1$s id for which you have to display navigation. No need to provide "
+"ID if it is used in %1$s single page."
+msgstr ""
+
+#: ../page-builders/visual-composer/modules/single-page/post-date.php:20
+#, php-format
+msgid ""
+"Provide %1$s id for which you have to display dates. No need to provide ID "
+"if it is used in %1$s single page."
+msgstr ""
+
+#: ../page-builders/visual-composer/modules/single-page/social-links.php:20
+#, php-format
+msgid ""
+"Provide %1$s id for which you have to display social links. No need to "
+"provide ID if it is used in %1$s single page."
+msgstr ""
+
+#: ../page-builders/visual-composer/modules/single-page/taxonomy.php:23
+#, php-format
+msgid ""
+"Provide %1$s id for which you have to display categories. No need to provide "
+"ID if it is used in %1$s single page."
+msgstr ""
+
+#: ../script-and-styles.php:58 ../script-and-styles.php:186
+msgid "No Results Found!"
+msgstr ""
+
+#: ../script-and-styles.php:64
+msgid "To get GPS location please fill address."
+msgstr ""
+
+#: ../script-and-styles.php:65
+msgid "Please add latitude and longitude"
+msgstr ""
+
+#: ../script-and-styles.php:66
+msgid "Confirm to import listings"
+msgstr ""
+
+#: ../script-and-styles.php:215
+msgid "Something Went Wrong"
+msgstr ""
+
+#: ../script-and-styles.php:216
+msgid "Please make sure you have added output shortcode."
+msgstr ""
+
+#: ../script-and-styles.php:217
+#, php-format
+msgid "%1$s Printer"
+msgstr ""
+
+#: ../script-and-styles.php:218
+msgid "Please login"
+msgstr ""
+
+#: ../script-and-styles.php:219
+msgid "No more posts to load!"
+msgstr ""
+
+#: ../settings/settings-archives-utils.php:13
+msgid "Types"
+msgstr ""
+
+#: ../settings/settings-archives-utils.php:40
+#, php-format
+msgid "Choose type for your %1$s archive pages."
+msgstr ""
+
+#: ../settings/settings-archives-utils.php:67
+#, php-format
+msgid "Choose gallery type for your %1$s archive pages."
+msgstr ""
+
+#: ../settings/settings-archives-utils.php:97
+#, php-format
+msgid "Choose column for your %1$s archive pages."
+msgstr ""
+
+#: ../settings/settings-archives-utils.php:111
+#, php-format
+msgid ""
+"If you like to apply isotope for your %1$s archive pages, check this options."
+msgstr ""
+
+#: ../settings/settings-archives-utils.php:122
+#, php-format
+msgid "Provide excerpt length for your %1$s archive pages."
+msgstr ""
+
+#: ../settings/settings-archives-utils.php:150
+#, php-format
+msgid ""
+"Choose features image or icon to use for your %1$s archive pages. This "
+"option won't work for \"Type 7\" & \"Type 10\"."
+msgstr ""
+
+#: ../settings/settings-archives-utils.php:162
+msgid ""
+"Give features id separated by comma. Only 4 maximum number of features "
+"allowed. This option won't work for \"Type 7\" & \"Type 10\"."
+msgstr ""
+
+#: ../settings/settings-archives-utils.php:199
+msgid "This setting is applicable for all archive pages."
+msgstr ""
+
+#: ../settings/settings-general-utils.php:13
+#, php-format
+msgid "%1$s Single Page Template"
+msgstr ""
+
+#: ../settings/settings-general-utils.php:28 ../utils/utils-fields.php:205
+msgid "Custom Template"
+msgstr ""
+
+#: ../settings/settings-general-utils.php:29 ../utils/utils-fields.php:206
+msgid "Default Template 1"
+msgstr ""
+
+#: ../settings/settings-general-utils.php:30 ../utils/utils-fields.php:207
+msgid "Default Template 2"
+msgstr ""
+
+#: ../settings/settings-general-utils.php:31 ../utils/utils-fields.php:208
+msgid "Default Template 3"
+msgstr ""
+
+#: ../settings/settings-general-utils.php:32 ../utils/utils-fields.php:209
+msgid "Default Template 4"
+msgstr ""
+
+#: ../settings/settings-general-utils.php:33 ../utils/utils-fields.php:210
+msgid "Default Template 5"
+msgstr ""
+
+#: ../settings/settings-general-utils.php:44 ../utils/utils-fields.php:223
+#, php-format
+msgid ""
+"If you like to build your %1$s single page by your own choose \"Custom "
+"Template\" else choose one of the predefined templates created using "
+"\"Portfolio Single Page Template\"."
+msgstr ""
+
+#: ../settings/settings-general-utils.php:51
+msgid "MLS Number - Prefix"
+msgstr ""
+
+#: ../settings/settings-general-utils.php:56
+msgid "If you wish you can add prefix for your MLS number."
+msgstr ""
+
+#: ../settings/settings-general-utils.php:62
+msgid "MLS Number - Total Digits"
+msgstr ""
+
+#: ../settings/settings-general-utils.php:67
+msgid "If you wish you can add digits for your MLS number. Max value : 8"
+msgstr ""
+
+#: ../settings/settings-general-utils.php:73
+msgid "Restrict Page View Counter Over User IP"
+msgstr ""
+
+#: ../settings/settings-general-utils.php:80
+msgid ""
+"YES! to restrict page view counter over user ip address. Second entry from "
+"same ip address will be restricted."
+msgstr ""
+
+#: ../settings/settings-label-utils.php:17
+#: ../settings/settings-label-utils.php:37
+#, php-format
+msgid "%1$s Singular Label"
+msgstr ""
+
+#: ../settings/settings-label-utils.php:21
+msgid "You can replace the \"Listing\" label as per your requirement."
+msgstr ""
+
+#: ../settings/settings-label-utils.php:27
+#: ../settings/settings-label-utils.php:47
+#, php-format
+msgid "%1$s Plural Label"
+msgstr ""
+
+#: ../settings/settings-label-utils.php:31
+msgid "You can replace the \"Listings\" label as per your requirement."
+msgstr ""
+
+#: ../settings/settings-label-utils.php:41
+msgid "You can replace the \"Amenity\" label as per your requirement."
+msgstr ""
+
+#: ../settings/settings-label-utils.php:51
+msgid "You can replace the \"Amenities\" label as per your requirement."
+msgstr ""
+
+#: ../settings/settings-permalink-utils.php:13
+#, php-format
+msgid "%1$s Slug"
+msgstr ""
+
+#: ../settings/settings-permalink-utils.php:18
+msgid ""
+"Do not use characters not allowed in links. Use, eg. listing After change go "
+"to Settings > Permalinks and click Save changes."
+msgstr ""
+
+#: ../settings/settings-permalink-utils.php:24
+#, php-format
+msgid "%1$s Category Slug"
+msgstr ""
+
+#: ../settings/settings-permalink-utils.php:29
+msgid ""
+"Do not use characters not allowed in links. Use, eg. listing-category After "
+"change go to Settings > Permalinks and click Save changes."
+msgstr ""
+
+#: ../settings/settings-permalink-utils.php:35
+#, php-format
+msgid "%1$s Amenity Slug"
+msgstr ""
+
+#: ../settings/settings-permalink-utils.php:40
+msgid ""
+"Do not use characters not allowed in links. Use, eg. listing-amenity After "
+"change go to Settings > Permalinks and click Save changes."
+msgstr ""
+
+#: ../settings/settings-permalink-utils.php:45
+msgid ""
+"Do not use characters not allowed in links. Use, eg. courses After change go "
+"to Settings > Permalinks and click Save changes."
+msgstr ""
+
+#: ../settings/settings-skin-utils.php:20
+msgid ""
+"Following colors will be used as default colors for \"WeDesignTech Portfolio "
+"Addon\"."
+msgstr ""
+
+#: ../settings/settings-skin-utils.php:25
+msgid "Primary Color"
+msgstr ""
+
+#: ../settings/settings-skin-utils.php:29
+msgid "Choose primary color module skin."
+msgstr ""
+
+#: ../settings/settings-skin-utils.php:37
+msgid "Secondary Color"
+msgstr ""
+
+#: ../settings/settings-skin-utils.php:41
+msgid "Choose secondary color module skin."
+msgstr ""
+
+#: ../settings/settings-skin-utils.php:49
+msgid "Tertiary Color"
+msgstr ""
+
+#: ../settings/settings-skin-utils.php:53
+msgid "Choose tertiary color module skin."
+msgstr ""
+
+#: ../settings/settings-utils.php:16
+msgid "Options have been updated successfully!"
+msgstr ""
+
+#: ../settings/settings-utils.php:19
+msgid "No changes done!"
+msgstr ""
+
+#: ../settings/settings-utils.php:33
+msgid "\"Skin\" settings have been updated successfully!"
+msgstr ""
+
+#: ../settings/settings.php:14
+msgid "Labels"
+msgstr ""
+
+#: ../settings/settings.php:18
+msgid "Permalink"
+msgstr ""
+
+#: ../settings/settings.php:22
+msgid "Archives"
+msgstr ""
+
+#: ../settings/settings.php:26
+msgid "Skin"
+msgstr ""
+
+#: ../shortcodes/shortcodes-default.php:61
+msgid "Logout"
+msgstr ""
+
+#: ../shortcodes/shortcodes-default.php:67
+msgid "Login"
+msgstr ""
+
+#: ../shortcodes/shortcodes-default.php:68
+msgid "Register"
+msgstr ""
+
+#: ../shortcodes/shortcodes-default.php:352
+#, php-format
+msgid "Starts from %1$s"
+msgstr ""
+
+#: ../shortcodes/shortcodes-default.php:370
+#: ../shortcodes/shortcodes-default.php:395
+#: ../shortcodes/shortcodes-default.php:419
+#: ../shortcodes/shortcodes-default.php:443
+#, php-format
+msgid "%1$s Taxonomy Icon Image"
+msgstr ""
+
+#: ../shortcodes/shortcodes-default.php:374
+#: ../shortcodes/shortcodes-default.php:399
+#: ../shortcodes/shortcodes-default.php:423
+#: ../shortcodes/shortcodes-default.php:447
+#: ../shortcodes/shortcodes-default.php:464
+#: ../shortcodes/shortcodes-default.php:480
+#: ../shortcodes/shortcodes-default.php:497
+#: ../shortcodes/shortcodes-singlepage.php:776
+#: ../shortcodes/shortcodes-singlepage.php:798
+#, php-format
+msgid "%1$s Taxonomy Image"
+msgstr ""
+
+#: ../shortcodes/shortcodes-singlepage.php:122 ../utils/utils-listings.php:664
+msgid "Featured"
+msgstr ""
+
+#: ../shortcodes/shortcodes-singlepage.php:471
+msgid "Socials:"
+msgstr ""
+
+#: ../shortcodes/shortcodes-singlepage.php:734
+msgid "Category:"
+msgstr ""
+
+#: ../shortcodes/shortcodes-singlepage.php:893 ../utils/utils-listings.php:1074
+msgid "Name"
+msgstr ""
+
+#: ../shortcodes/shortcodes-singlepage.php:917 ../utils/utils-listings.php:1103
+msgid "Message"
+msgstr ""
+
+#: ../shortcodes/shortcodes-singlepage.php:994
+msgid "Posted On: "
+msgstr ""
+
+#: ../shortcodes/shortcodes-singlepage.php:1065
+msgid "MLS Number: "
+msgstr ""
+
+#: ../shortcodes/shortcodes-singlepage.php:1110
+#: ../shortcodes/shortcodes-singlepage.php:1112
+#: ../shortcodes/shortcodes-singlepage.php:1119
+#: ../shortcodes/shortcodes-singlepage.php:1129
+msgid "Previous Portfolio"
+msgstr ""
+
+#: ../shortcodes/shortcodes-singlepage.php:1131
+#: ../shortcodes/shortcodes-singlepage.php:1173
+msgid "No portfolio to show!"
+msgstr ""
+
+#: ../shortcodes/shortcodes-singlepage.php:1138
+msgid "Back to portfolios"
+msgstr ""
+
+#: ../shortcodes/shortcodes-singlepage.php:1152
+#: ../shortcodes/shortcodes-singlepage.php:1154
+#: ../shortcodes/shortcodes-singlepage.php:1161
+#: ../shortcodes/shortcodes-singlepage.php:1171
+msgid "Next Portfolio"
+msgstr ""
+
+#: ../utils/comments.php:10
+msgid "Comments ( % )"
+msgstr ""
+
+#: ../utils/utils-admin.php:13 ../utils/utils-admin.php:34
+msgid "Image Preview"
+msgstr ""
+
+#: ../utils/utils-admin.php:15
+msgid "Image Preview Tooltip"
+msgstr ""
+
+#: ../utils/utils-fields.php:36 ../utils/utils-fields.php:75
+msgid "Sub Title"
+msgstr ""
+
+#: ../utils/utils-fields.php:39 ../utils/utils-fields.php:78
+msgid "Value"
+msgstr ""
+
+#: ../utils/utils-fields.php:42 ../utils/utils-fields.php:81
+msgid "Value Unit"
+msgstr ""
+
+#: ../utils/utils-fields.php:65
+msgid "Add Feature"
+msgstr ""
+
+#: ../utils/utils-fields.php:143 ../utils/utils-fields.php:169
+msgid "Social Link"
+msgstr ""
+
+#: ../utils/utils-fields.php:158
+msgid "Add Social Item"
+msgstr ""
+
+#: ../utils/utils-fields.php:204
+msgid "Admin Option"
+msgstr ""
+
+#: ../utils/utils-fields.php:225
+#, php-format
+msgid ""
+"If you like to build your %1$s single page by your own choose \"Custom "
+"Template\" else choose one of the predefined templates created using "
+"\"Portfolio Single Page Template\". Get Admin support to build your \"Custom "
+"Template\""
+msgstr ""
+
+#: ../utils/utils-listings.php:504 ../utils/utils-listings.php:597
+msgid "No records found!"
+msgstr ""
+
+#: ../utils/utils-listings.php:560
+msgid "All"
+msgstr ""
+
+#: ../utils/utils-listings.php:702 ../utils/utils-listings.php:750
+#: ../utils/utils-listings.php:820
+msgid "View Details"
+msgstr ""
+
+#: ../utils/utils-listings.php:913
+msgid "Scroll to view more items"
+msgstr ""
+
+#: ../utils/utils-listings.php:1060
+msgid "Unverified Nonce!"
+msgstr ""
+
+#: ../utils/utils-listings.php:1083
+msgid "Email field is not valid!"
+msgstr ""
+
+#: ../utils/utils-listings.php:1094
+msgid "Phone field is not valid!"
+msgstr ""
+
+#: ../utils/utils-listings.php:1136
+msgid "No contact emails found, contact administrator!"
+msgstr ""
+
+#: ../utils/utils-listings.php:1146
+msgid " fields are Empty!"
+msgstr ""
+
+#: ../utils/utils-listings.php:1265
+#, php-format
+msgid "New message from %1$s - %2$s"
+msgstr ""
+
+#: ../utils/utils-listings.php:1267
+msgid "You have received a message from: "
+msgstr ""
+
+#: ../utils/utils-listings.php:1268
+msgid "Phone Number : "
+msgstr ""
+
+#: ../utils/utils-listings.php:1270
+#, php-format
+msgid "You can contact %1$s via email %2$s"
+msgstr ""
+
+#: ../utils/utils-listings.php:1279
+msgid "Message Sent Successfully!"
+msgstr ""
+
+#: ../utils/utils-listings.php:1287
+msgid "Something went wrong!. Please check your settings!."
+msgstr ""
+
+#: ../utils/utils-listings.php:1365
+msgid "Your subscribtion limit have been reached, please check your dashboard."
+msgstr ""
+
+#: ../utils/utils-listings.php:1376
+#, php-format
+msgid "You have already subscribed this %1$s."
+msgstr ""
+
+#: ../utils/utils-listings.php:1387
+msgid "You don't have any active package to send request."
+msgstr ""
+
+#: ../utils/utils.php:16 ../wedesigntech-portfolio.php:196
+msgid "Portfolio"
+msgstr ""
+
+#: ../utils/utils.php:17
+msgid "Portfolios"
+msgstr ""
+
+#: ../utils/utils.php:18
+msgid "Tag"
+msgstr ""
+
+#: ../wedesigntech-portfolio.php:68
+msgid "WeDesignTech Portfolio Addon"
+msgstr ""
+
+#: ../wedesigntech-portfolio.php:71
+#, php-format
+msgid "%1$s - Default"
+msgstr ""
+
+#: ../wedesigntech-portfolio.php:72
+#, php-format
+msgid "%1$s - Single Page"
+msgstr ""
+
+#: ../wedesigntech-portfolio.php:138
+#, php-format
+msgid ""
+"%1$s requires %2$s or %3$s plugin to be installed and activated on your site"
+msgstr ""
+
+#: ../wedesigntech-portfolio.php:138
+msgid "Visual Composer"
+msgstr ""
+
+#: ../wedesigntech-portfolio.php:138
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: ../wedesigntech-portfolio.php:141
+msgid "Dismiss this notice."
+msgstr ""
+
+#: ../wedesigntech-portfolio.php:156
+msgid "Portfolio Listings Single Page Template"
+msgstr ""
+
+#: ../wedesigntech-portfolio.php:196
+#, php-format
+msgid "Portfolio %1$s"
+msgstr ""

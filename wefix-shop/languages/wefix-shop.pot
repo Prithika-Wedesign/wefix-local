@@ -1,0 +1,466 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WeFix Twitter\n"
+"POT-Creation-Date: 2023-10-20 17:59+0530\n"
+"PO-Revision-Date: 2020-01-14 18:56+0530\n"
+"Last-Translator: \n"
+"Language-Team: Creative Brahma\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __e;__;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions.php:11
+msgid "None"
+msgstr ""
+
+#: modules/category/customizer/index.php:72
+#: modules/listings/product-archive/index.php:148
+#: modules/shop/customizer/index.php:75
+#: modules/single/customizer/sections/default.php:63
+#: modules/tag/customizer/index.php:72
+msgid "Disable Breadcrumb"
+msgstr ""
+
+#: modules/category/customizer/index.php:75
+#: modules/category/customizer/index.php:99
+#: modules/category/customizer/index.php:147
+#: modules/shop/customizer/index.php:78 modules/shop/customizer/index.php:101
+#: modules/shop/customizer/index.php:124 modules/shop/customizer/index.php:172
+#: modules/single/customizer/sections/default.php:66
+#: modules/single/customizer/sections/default.php:89
+#: modules/tag/customizer/index.php:75 modules/tag/customizer/index.php:98
+#: modules/tag/customizer/index.php:146
+msgid "Yes"
+msgstr ""
+
+#: modules/category/customizer/index.php:76
+#: modules/category/customizer/index.php:100
+#: modules/category/customizer/index.php:148
+#: modules/shop/customizer/index.php:79 modules/shop/customizer/index.php:102
+#: modules/shop/customizer/index.php:125 modules/shop/customizer/index.php:173
+#: modules/single/customizer/sections/default.php:67
+#: modules/single/customizer/sections/default.php:90
+#: modules/tag/customizer/index.php:76 modules/tag/customizer/index.php:99
+#: modules/tag/customizer/index.php:147
+msgid "No"
+msgstr ""
+
+#: modules/category/customizer/index.php:96
+#: modules/listings/product-archive/index.php:153
+#: modules/shop/customizer/index.php:121 modules/tag/customizer/index.php:95
+msgid "Show Sorter On Header"
+msgstr ""
+
+#: modules/category/customizer/index.php:118
+#: modules/listings/product-archive/index.php:158
+#: modules/shop/customizer/index.php:143 modules/tag/customizer/index.php:117
+msgid "Sorter Header Elements"
+msgstr ""
+
+#: modules/category/customizer/index.php:121
+#: modules/listings/product-archive/index.php:161
+#: modules/listings/product-archive/index.php:182
+#: modules/shop/customizer/index.php:146 modules/tag/customizer/index.php:120
+msgid "Filter - OrderBy"
+msgstr ""
+
+#: modules/category/customizer/index.php:122
+#: modules/listings/product-archive/index.php:162
+#: modules/listings/product-archive/index.php:183
+#: modules/shop/customizer/index.php:147 modules/tag/customizer/index.php:121
+msgid "Filters - Widget Area"
+msgstr ""
+
+#: modules/category/customizer/index.php:123
+#: modules/category/customizer/index.php:170
+#: modules/listings/product-archive/index.php:163
+#: modules/listings/product-archive/index.php:184
+#: modules/shop/customizer/index.php:148 modules/shop/customizer/index.php:195
+#: modules/tag/customizer/index.php:122 modules/tag/customizer/index.php:169
+msgid "Result Count"
+msgstr ""
+
+#: modules/category/customizer/index.php:124
+#: modules/category/customizer/index.php:171
+#: modules/listings/product-archive/index.php:164
+#: modules/listings/product-archive/index.php:185
+#: modules/shop/customizer/index.php:149 modules/shop/customizer/index.php:196
+#: modules/tag/customizer/index.php:123 modules/tag/customizer/index.php:170
+msgid "Pagination"
+msgstr ""
+
+#: modules/category/customizer/index.php:125
+#: modules/category/customizer/index.php:172
+#: modules/listings/product-archive/index.php:165
+#: modules/listings/product-archive/index.php:186
+#: modules/shop/customizer/index.php:150 modules/shop/customizer/index.php:197
+#: modules/tag/customizer/index.php:124 modules/tag/customizer/index.php:171
+msgid "Display Mode"
+msgstr ""
+
+#: modules/category/customizer/index.php:126
+#: modules/category/customizer/index.php:173
+#: modules/listings/product-archive/index.php:166
+#: modules/listings/product-archive/index.php:187
+#: modules/shop/customizer/index.php:151 modules/shop/customizer/index.php:198
+#: modules/tag/customizer/index.php:125 modules/tag/customizer/index.php:172
+msgid "Display Mode Options"
+msgstr ""
+
+#: modules/category/customizer/index.php:144
+#: modules/listings/product-archive/index.php:174
+#: modules/shop/customizer/index.php:169 modules/tag/customizer/index.php:143
+msgid "Show Sorter On Footer"
+msgstr ""
+
+#: modules/category/customizer/index.php:166
+#: modules/listings/product-archive/index.php:179
+#: modules/shop/customizer/index.php:191 modules/tag/customizer/index.php:165
+msgid "Sorter Footer Elements"
+msgstr ""
+
+#: modules/category/customizer/index.php:169
+#: modules/shop/customizer/index.php:194 modules/tag/customizer/index.php:168
+msgid "Filter"
+msgstr ""
+
+#: modules/listings/index.php:73 modules/listings/index.php:78
+msgid "WeFix Settings"
+msgstr ""
+
+#: modules/listings/product-archive/index.php:89
+msgid "Admin Option"
+msgstr ""
+
+#: modules/listings/product-archive/index.php:119
+msgid "Title"
+msgstr ""
+
+#: modules/listings/product-archive/index.php:125
+msgid "Product Template"
+msgstr ""
+
+#: modules/listings/product-archive/index.php:131
+msgid "Product Per Page"
+msgstr ""
+
+#: modules/listings/product-archive/index.php:137
+msgid "Product Layout"
+msgstr ""
+
+#: modules/listings/product-archive/index.php:139
+msgid "One Column"
+msgstr ""
+
+#: modules/listings/product-archive/index.php:140
+msgid "Two Column"
+msgstr ""
+
+#: modules/listings/product-archive/index.php:141
+msgid "Three Column"
+msgstr ""
+
+#: modules/listings/product-archive/index.php:142
+msgid "Four Column"
+msgstr ""
+
+#: modules/listings/product-archive/index.php:195
+msgid "Sidebar Layout"
+msgstr ""
+
+#: modules/listings/product-archive/index.php:207
+msgid "Sidebar Widget Areas"
+msgstr ""
+
+#: modules/listings/product-archive/index.php:212
+msgid "Select Widget Area(s)"
+msgstr ""
+
+#: modules/listings/product-archive/index.php:219
+msgid "Product Hook - Page Top"
+msgstr ""
+
+#: modules/listings/product-archive/index.php:220
+#: modules/shop/customizer/index.php:217
+msgid "Choose elementor template that you want to display in Shop page top position."
+msgstr ""
+
+#: modules/listings/product-archive/index.php:226
+msgid "Product Hook - Page Bottom"
+msgstr ""
+
+#: modules/listings/product-archive/index.php:227
+#: modules/shop/customizer/index.php:238
+msgid "Choose elementor template that you want to display in Shop page bottom position."
+msgstr ""
+
+#: modules/listings/product-archive/index.php:233
+msgid "Product Hook - Content Top"
+msgstr ""
+
+#: modules/listings/product-archive/index.php:234
+msgid "Choose elementor template that you want to display in Shop content top position."
+msgstr ""
+
+#: modules/listings/product-archive/index.php:240
+msgid "Product Hook - Content Bottom"
+msgstr ""
+
+#: modules/listings/product-archive/index.php:241
+msgid "Choose elementor template that you want to display in Shop content bottom position."
+msgstr ""
+
+#: modules/listings/product-archive/index.php:251
+msgid "Shop - Product Archive"
+msgstr ""
+
+#: modules/listings/product-archive/index.php:259
+msgid "Product Style Archives"
+msgstr ""
+
+#: modules/listings/product-archive/index.php:260
+#: modules/listings/product-template/index.php:114
+msgid "Add New"
+msgstr ""
+
+#: modules/listings/product-archive/index.php:261
+msgid "Add New Archive"
+msgstr ""
+
+#: modules/listings/product-archive/index.php:280
+msgid "Standard Sidebar"
+msgstr ""
+
+#: modules/listings/product-template/index.php:44
+#: modules/listings/product-template/index.php:164
+msgid "Template"
+msgstr ""
+
+#: modules/listings/product-template/index.php:54
+#: modules/listings/product-template/index.php:177
+msgid "Default Options."
+msgstr ""
+
+#: modules/listings/product-template/index.php:64
+#: modules/listings/product-template/index.php:187
+msgid "Hover Options."
+msgstr ""
+
+#: modules/listings/product-template/index.php:74
+#: modules/listings/product-template/index.php:197
+msgid "Common Options."
+msgstr ""
+
+#: modules/listings/product-template/index.php:84
+#: modules/listings/product-template/index.php:207
+msgid "Thumb Options."
+msgstr ""
+
+#: modules/listings/product-template/index.php:94
+#: modules/listings/product-template/index.php:217
+msgid "Content Options."
+msgstr ""
+
+#: modules/listings/product-template/index.php:105
+msgid "Shop - Product Template"
+msgstr ""
+
+#: modules/listings/product-template/index.php:113
+msgid "Product Style Templates"
+msgstr ""
+
+#: modules/listings/product-template/index.php:115
+msgid "Add New Template"
+msgstr ""
+
+#: modules/shop/customizer/index.php:98
+msgid "Apply Isotope"
+msgstr ""
+
+#: modules/shop/customizer/index.php:216
+msgid "Template Hooks - Page Top"
+msgstr ""
+
+#: modules/shop/customizer/index.php:237
+msgid "Template Hooks - Page Bottom"
+msgstr ""
+
+#: modules/shop/customizer/index.php:258
+msgid "Template Hooks - Content Top"
+msgstr ""
+
+#: modules/shop/customizer/index.php:259
+msgid "Choose elementor template that you want to display in Shop page content top position."
+msgstr ""
+
+#: modules/shop/customizer/index.php:279
+msgid "Template Hooks - Content Bottom"
+msgstr ""
+
+#: modules/shop/customizer/index.php:280
+msgid "Choose elementor template that you want to display in Shop page content bottom position."
+msgstr ""
+
+#: modules/single/customizer/sections/default.php:86
+msgid "Product Title in Breadcrumb"
+msgstr ""
+
+#: modules/single/customizer/sections/default.php:92
+msgid "If you like to show title in breadcrumb section."
+msgstr ""
+
+#: modules/single/metabox/index.php:31
+msgid "Add \"New\" label"
+msgstr ""
+
+#: modules/single/metabox/index.php:37
+msgid "Product Notes"
+msgstr ""
+
+#: templates/loop/orderby.php:66
+msgid "Shop order"
+msgstr ""
+
+#: templates/share.php:45
+msgid "Facebook"
+msgstr ""
+
+#: templates/share.php:53
+msgid "Twitter"
+msgstr ""
+
+#: templates/share.php:61
+msgid "Pinterest"
+msgstr ""
+
+#: templates/share.php:69 templates/single-product-reviews.php:97
+msgid "Email"
+msgstr ""
+
+#: templates/share.php:78
+msgid "WhatsApp"
+msgstr ""
+
+#: templates/share.php:89
+msgid "(Now"
+msgstr ""
+
+#: templates/share.php:89
+msgid "copy"
+msgstr ""
+
+#: templates/share.php:89
+msgid "this wishlist link and share it anywhere)"
+msgstr ""
+
+#: templates/single-product-reviews.php:39
+msgid "Reviews"
+msgstr ""
+
+#: templates/single-product-reviews.php:66
+msgid "There are no reviews yet."
+msgstr ""
+
+#: templates/single-product-reviews.php:77
+msgid "Add a review"
+msgstr ""
+
+#: templates/single-product-reviews.php:77
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: templates/single-product-reviews.php:79
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: templates/single-product-reviews.php:83
+msgid "Submit"
+msgstr ""
+
+#: templates/single-product-reviews.php:91
+msgid "Name"
+msgstr ""
+
+#: templates/single-product-reviews.php:129
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: templates/single-product-reviews.php:133
+msgid "Your rating"
+msgstr ""
+
+#: templates/single-product-reviews.php:134
+msgid "Rate&hellip;"
+msgstr ""
+
+#: templates/single-product-reviews.php:135
+msgid "Perfect"
+msgstr ""
+
+#: templates/single-product-reviews.php:136
+msgid "Good"
+msgstr ""
+
+#: templates/single-product-reviews.php:137
+msgid "Average"
+msgstr ""
+
+#: templates/single-product-reviews.php:138
+msgid "Not that bad"
+msgstr ""
+
+#: templates/single-product-reviews.php:139
+msgid "Very poor"
+msgstr ""
+
+#: templates/single-product-reviews.php:143
+msgid "Your review"
+msgstr ""
+
+#: templates/single-product-reviews.php:150
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: templates/single-product/meta.php:34
+msgid "SKU:"
+msgstr ""
+
+#: templates/single-product/meta.php:39
+msgid "N/A"
+msgstr ""
+
+#: templates/single-product/product-image.php:43
+msgid "Awaiting product image"
+msgstr ""
+
+#: templates/single-product/tabs/description.php:25
+msgid "Description"
+msgstr ""
+
+#: wefix-shop.php:121 wefix-shop.php:141
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" plugin to be installed and activated."
+msgstr ""
+
+#: wefix-shop.php:122 wefix-shop.php:142
+#: wefix-shop.php:166
+msgid "WeFix Shop"
+msgstr ""
+
+#: wefix-shop.php:123
+msgid "WooCommerce - excelling eCommerce"
+msgstr ""
+
+#: wefix-shop.php:143
+msgid "WeFix Pro"
+msgstr ""

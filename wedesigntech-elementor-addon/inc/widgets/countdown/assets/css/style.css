@@ -1,0 +1,29 @@
+.wdt-countdown-holder .wdt-downcount {display: flex;width: max-content;border: 1px solid var(--wdtHeadAltColor);}
+.wdt-counter-wrapper .wdt-counter-number {font-size: var(--wdtFontSize_H2);}
+.wdt-countdown-holder .wdt-counter-wrapper  .wdt-counter-inner-wrapper{padding: 20px;text-align: center;}
+.wdt-countdown-holder .wdt-counter-wrapper {display: flex;align-items: center;}
+.wdt-countdown-holder .wdt-counter-wrapper .wdt-counter-inner-wrapper .title {margin: 0 0;font-size: var(--wdtFontSize_H4);}
+.wdt-countdown-holder .wdt-counter-wrapper .wdt-counter-divider{line-height: 1.2em;font-size: var(--wdtFontSize_Alt);}
+
+
+
+/* ----Responsive----- */
+@media only screen and (max-width:767px) {
+
+
+    .wdt-countdown-holder .wdt-counter-wrapper .wdt-counter-inner-wrapper {padding: 12px;}
+
+}
+
+@media only screen and (max-width: 480px) {
+
+    .wdt-counter-wrapper .wdt-counter-number {font-size: var(--wdtFontSize_H4);}
+    .wdt-countdown-holder .wdt-counter-wrapper .wdt-counter-inner-wrapper {padding: 12px;}
+    .wdt-countdown-holder .wdt-counter-wrapper .wdt-counter-divider {font-size: var(--wdtFontSize_H4);}
+    .wdt-countdown-holder .wdt-counter-wrapper .wdt-counter-inner-wrapper .title {font-size: var(--wdtFontSize_H6);}
+
+}
+
+
+
+
